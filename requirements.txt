@@ -1,0 +1,8 @@
+# Core numerics and the two solvers used throughout.
+numpy>=1.24
+scipy>=1.10          # linprog, for the certificate and the allocation LP
+cvxpy>=1.4           # the safety filters
+clarabel>=0.6        # the conic solver cvxpy calls
+
+# Figures and videos.  Only needed for figures/ and media/.
+matplotlib>=3.7

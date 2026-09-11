@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Generated outputs.  The runs behind the paper are committed under data/ so
+# the results travel with the code; anything new lands here instead.
+data/scratch/
+figures/out/
+media/out/
+*.mp4
+*.gif
+!assets/*.mp4
+!assets/*.gif

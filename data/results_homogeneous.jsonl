@@ -1,0 +1,640 @@
+{"infeasible_fraction": 0.33, "min_h": 0.008747378813057871, "alloc_milliseconds": 0.0, "n": 6, "seed": 0, "method": "centralized"}
+{"infeasible_fraction": 0.715, "min_h": -0.03733386339303163, "alloc_milliseconds": 0.004848109999908701, "n": 6, "seed": 0, "method": "uniform"}
+{"infeasible_fraction": 0.715, "min_h": -0.043045540186225306, "alloc_milliseconds": 0.01086864499995066, "n": 6, "seed": 0, "method": "capability"}
+{"infeasible_fraction": 0.005, "min_h": 0.004251191589422554, "alloc_milliseconds": 1.3708449800000193, "n": 6, "seed": 0, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.07682437427105665, "alloc_milliseconds": 0.0, "n": 6, "seed": 1, "method": "centralized"}
+{"infeasible_fraction": 0.515, "min_h": -0.026432050118897155, "alloc_milliseconds": 0.004267929999972608, "n": 6, "seed": 1, "method": "uniform"}
+{"infeasible_fraction": 0.6, "min_h": -0.09162502063567923, "alloc_milliseconds": 0.011360250000009842, "n": 6, "seed": 1, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.08591839231304355, "alloc_milliseconds": 1.631630855000239, "n": 6, "seed": 1, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.0006750764767712858, "alloc_milliseconds": 0.0, "n": 6, "seed": 2, "method": "centralized"}
+{"infeasible_fraction": 0.095, "min_h": 7.63590831892591e-06, "alloc_milliseconds": 0.005484710000054349, "n": 6, "seed": 2, "method": "uniform"}
+{"infeasible_fraction": 0.0, "min_h": -0.0012747965104031311, "alloc_milliseconds": 0.012792450000240763, "n": 6, "seed": 2, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 0.0035812059122766193, "alloc_milliseconds": 1.8258821299999894, "n": 6, "seed": 2, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.00021084724926451193, "alloc_milliseconds": 0.0, "n": 6, "seed": 3, "method": "centralized"}
+{"infeasible_fraction": 0.54, "min_h": -0.01870769607601075, "alloc_milliseconds": 0.006161620000000312, "n": 6, "seed": 3, "method": "uniform"}
+{"infeasible_fraction": 0.315, "min_h": 0.00024668370161168296, "alloc_milliseconds": 0.012567495000226359, "n": 6, "seed": 3, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 0.00016440666103223478, "alloc_milliseconds": 1.518476250000944, "n": 6, "seed": 3, "method": "certificate"}
+{"infeasible_fraction": 0.18, "min_h": 0.0010854194149543805, "alloc_milliseconds": 0.0, "n": 6, "seed": 4, "method": "centralized"}
+{"infeasible_fraction": 0.48, "min_h": -0.15578603781259498, "alloc_milliseconds": 0.005251970000230699, "n": 6, "seed": 4, "method": "uniform"}
+{"infeasible_fraction": 0.665, "min_h": -0.052264000383962284, "alloc_milliseconds": 0.01310879000037346, "n": 6, "seed": 4, "method": "capability"}
+{"infeasible_fraction": 0.665, "min_h": -0.021897406367038907, "alloc_milliseconds": 1.3298845500001022, "n": 6, "seed": 4, "method": "certificate"}
+{"infeasible_fraction": 0.02, "min_h": 0.007182836247159763, "alloc_milliseconds": 0.0, "n": 6, "seed": 5, "method": "centralized"}
+{"infeasible_fraction": 0.08, "min_h": 0.014516551667370425, "alloc_milliseconds": 0.005016604999994456, "n": 6, "seed": 5, "method": "uniform"}
+{"infeasible_fraction": 0.02, "min_h": 0.009983976638689163, "alloc_milliseconds": 0.014106994999778522, "n": 6, "seed": 5, "method": "capability"}
+{"infeasible_fraction": 0.005, "min_h": 0.008862572691623771, "alloc_milliseconds": 1.479721179999558, "n": 6, "seed": 5, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.00017328824030826695, "alloc_milliseconds": 0.0, "n": 6, "seed": 6, "method": "centralized"}
+{"infeasible_fraction": 0.18, "min_h": 0.0001804349416639206, "alloc_milliseconds": 0.004585219998602952, "n": 6, "seed": 6, "method": "uniform"}
+{"infeasible_fraction": 0.155, "min_h": 0.00018025057878712225, "alloc_milliseconds": 0.011403004999124278, "n": 6, "seed": 6, "method": "capability"}
+{"infeasible_fraction": 0.015, "min_h": 0.003833904350135753, "alloc_milliseconds": 1.2787289700001736, "n": 6, "seed": 6, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.0020086323784676563, "alloc_milliseconds": 0.0, "n": 6, "seed": 7, "method": "centralized"}
+{"infeasible_fraction": 0.0, "min_h": 0.0021862669459695727, "alloc_milliseconds": 0.004406440000082057, "n": 6, "seed": 7, "method": "uniform"}
+{"infeasible_fraction": 0.01, "min_h": 0.002181411395690336, "alloc_milliseconds": 0.010179605000928404, "n": 6, "seed": 7, "method": "capability"}
+{"infeasible_fraction": 0.065, "min_h": 0.0024306556968529125, "alloc_milliseconds": 1.570742165000496, "n": 6, "seed": 7, "method": "certificate"}
+{"infeasible_fraction": 0.035, "min_h": -0.0003412451683327822, "alloc_milliseconds": 0.0, "n": 8, "seed": 0, "method": "centralized"}
+{"infeasible_fraction": 0.405, "min_h": 0.00012497024751068064, "alloc_milliseconds": 0.005251060001114638, "n": 8, "seed": 0, "method": "uniform"}
+{"infeasible_fraction": 0.595, "min_h": -0.0008597421744222511, "alloc_milliseconds": 0.016615359999860857, "n": 8, "seed": 0, "method": "capability"}
+{"infeasible_fraction": 0.095, "min_h": 0.004142728321913813, "alloc_milliseconds": 1.7988137349992428, "n": 8, "seed": 0, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.00029537179264671476, "alloc_milliseconds": 0.0, "n": 8, "seed": 1, "method": "centralized"}
+{"infeasible_fraction": 0.61, "min_h": -0.009998051600370927, "alloc_milliseconds": 0.005129575001063813, "n": 8, "seed": 1, "method": "uniform"}
+{"infeasible_fraction": 0.725, "min_h": -0.01135673228549322, "alloc_milliseconds": 0.014881299999274233, "n": 8, "seed": 1, "method": "capability"}
+{"infeasible_fraction": 0.005, "min_h": 0.0033749729718014487, "alloc_milliseconds": 1.4539134749996663, "n": 8, "seed": 1, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.00010528673335136185, "alloc_milliseconds": 0.0, "n": 8, "seed": 2, "method": "centralized"}
+{"infeasible_fraction": 0.73, "min_h": -0.09311723582577774, "alloc_milliseconds": 0.005256024999908959, "n": 8, "seed": 2, "method": "uniform"}
+{"infeasible_fraction": 0.415, "min_h": -0.007175908345254833, "alloc_milliseconds": 0.01657133500089003, "n": 8, "seed": 2, "method": "capability"}
+{"infeasible_fraction": 0.005, "min_h": -0.00016160112732910292, "alloc_milliseconds": 1.6659075199987683, "n": 8, "seed": 2, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.0022874989508627763, "alloc_milliseconds": 0.0, "n": 8, "seed": 3, "method": "centralized"}
+{"infeasible_fraction": 0.6, "min_h": -0.04997971833638898, "alloc_milliseconds": 0.005355859999269796, "n": 8, "seed": 3, "method": "uniform"}
+{"infeasible_fraction": 0.61, "min_h": -0.014299215161118983, "alloc_milliseconds": 0.016649404998503314, "n": 8, "seed": 3, "method": "capability"}
+{"infeasible_fraction": 0.005, "min_h": 0.09217937160951939, "alloc_milliseconds": 1.461995415000672, "n": 8, "seed": 3, "method": "certificate"}
+{"infeasible_fraction": 0.28, "min_h": 0.0014094392320493365, "alloc_milliseconds": 0.0, "n": 8, "seed": 4, "method": "centralized"}
+{"infeasible_fraction": 0.42, "min_h": 0.00866854511025933, "alloc_milliseconds": 0.0048633000014319805, "n": 8, "seed": 4, "method": "uniform"}
+{"infeasible_fraction": 0.225, "min_h": -0.0015109898583500758, "alloc_milliseconds": 0.013858839999159045, "n": 8, "seed": 4, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.05160492851927029, "alloc_milliseconds": 1.4186715550030726, "n": 8, "seed": 4, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.0008483884101135319, "alloc_milliseconds": 0.0, "n": 8, "seed": 5, "method": "centralized"}
+{"infeasible_fraction": 0.235, "min_h": 0.008862781129569897, "alloc_milliseconds": 0.00492282999971394, "n": 8, "seed": 5, "method": "uniform"}
+{"infeasible_fraction": 0.025, "min_h": 0.010441304448557343, "alloc_milliseconds": 0.013916560000666323, "n": 8, "seed": 5, "method": "capability"}
+{"infeasible_fraction": 0.02, "min_h": 0.005191907780628446, "alloc_milliseconds": 1.64647505500227, "n": 8, "seed": 5, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.0021866861543835547, "alloc_milliseconds": 0.0, "n": 8, "seed": 6, "method": "centralized"}
+{"infeasible_fraction": 0.54, "min_h": -0.01612023898067022, "alloc_milliseconds": 0.004898395002328471, "n": 8, "seed": 6, "method": "uniform"}
+{"infeasible_fraction": 0.83, "min_h": -0.0024094127994367387, "alloc_milliseconds": 0.01591167500237134, "n": 8, "seed": 6, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 5.2537270913033396e-05, "alloc_milliseconds": 1.426898154999492, "n": 8, "seed": 6, "method": "certificate"}
+{"infeasible_fraction": 0.14, "min_h": -0.001513422062394354, "alloc_milliseconds": 0.0, "n": 8, "seed": 7, "method": "centralized"}
+{"infeasible_fraction": 0.51, "min_h": -0.08545177297732814, "alloc_milliseconds": 0.0051364849991841766, "n": 8, "seed": 7, "method": "uniform"}
+{"infeasible_fraction": 0.405, "min_h": -0.016447871078190512, "alloc_milliseconds": 0.014556600001185416, "n": 8, "seed": 7, "method": "capability"}
+{"infeasible_fraction": 0.02, "min_h": 0.007532807506787975, "alloc_milliseconds": 1.784382364998578, "n": 8, "seed": 7, "method": "certificate"}
+{"infeasible_fraction": 0.345, "min_h": -0.08196579800857934, "alloc_milliseconds": 0.0, "n": 10, "seed": 0, "method": "centralized"}
+{"infeasible_fraction": 0.75, "min_h": -0.11804856139591272, "alloc_milliseconds": 0.005605324999748973, "n": 10, "seed": 0, "method": "uniform"}
+{"infeasible_fraction": 0.73, "min_h": -0.06442969361081818, "alloc_milliseconds": 0.024624944997242437, "n": 10, "seed": 0, "method": "capability"}
+{"infeasible_fraction": 0.045, "min_h": -0.002466563972102709, "alloc_milliseconds": 2.0003364100014664, "n": 10, "seed": 0, "method": "certificate"}
+{"infeasible_fraction": 0.44, "min_h": -0.32839366797312525, "alloc_milliseconds": 0.0, "n": 10, "seed": 1, "method": "centralized"}
+{"infeasible_fraction": 0.49, "min_h": -0.23305206137284423, "alloc_milliseconds": 0.004796969996903044, "n": 10, "seed": 1, "method": "uniform"}
+{"infeasible_fraction": 0.4, "min_h": -0.2681712374996834, "alloc_milliseconds": 0.018199024999603353, "n": 10, "seed": 1, "method": "capability"}
+{"infeasible_fraction": 0.055, "min_h": 0.0066133766111197145, "alloc_milliseconds": 1.9666031700018038, "n": 10, "seed": 1, "method": "certificate"}
+{"infeasible_fraction": 0.035, "min_h": 0.010339703478177198, "alloc_milliseconds": 0.0, "n": 10, "seed": 2, "method": "centralized"}
+{"infeasible_fraction": 0.395, "min_h": -0.01910710019014178, "alloc_milliseconds": 0.006027789999052402, "n": 10, "seed": 2, "method": "uniform"}
+{"infeasible_fraction": 0.4, "min_h": -0.010464390556609526, "alloc_milliseconds": 0.019586484997944353, "n": 10, "seed": 2, "method": "capability"}
+{"infeasible_fraction": 0.03, "min_h": 0.0024269110994418752, "alloc_milliseconds": 1.7800995949980347, "n": 10, "seed": 2, "method": "certificate"}
+{"infeasible_fraction": 0.145, "min_h": -0.0010609641208440546, "alloc_milliseconds": 0.0, "n": 10, "seed": 3, "method": "centralized"}
+{"infeasible_fraction": 0.755, "min_h": -0.015421742396931615, "alloc_milliseconds": 0.004767014999629282, "n": 10, "seed": 3, "method": "uniform"}
+{"infeasible_fraction": 0.835, "min_h": -0.029566393124337786, "alloc_milliseconds": 0.02011391000110052, "n": 10, "seed": 3, "method": "capability"}
+{"infeasible_fraction": 0.045, "min_h": -3.0044604444723344e-05, "alloc_milliseconds": 1.6615610900038291, "n": 10, "seed": 3, "method": "certificate"}
+{"infeasible_fraction": 0.37, "min_h": -0.2651756813291924, "alloc_milliseconds": 0.0, "n": 10, "seed": 4, "method": "centralized"}
+{"infeasible_fraction": 0.72, "min_h": -0.21355439033027837, "alloc_milliseconds": 0.005231210005263165, "n": 10, "seed": 4, "method": "uniform"}
+{"infeasible_fraction": 0.65, "min_h": -0.13379034282076835, "alloc_milliseconds": 0.018248769997057934, "n": 10, "seed": 4, "method": "capability"}
+{"infeasible_fraction": 0.05, "min_h": 0.004560623016688525, "alloc_milliseconds": 1.8233409250012755, "n": 10, "seed": 4, "method": "certificate"}
+{"infeasible_fraction": 0.035, "min_h": -6.573049134989128e-05, "alloc_milliseconds": 0.0, "n": 10, "seed": 5, "method": "centralized"}
+{"infeasible_fraction": 0.615, "min_h": -0.09523430979475012, "alloc_milliseconds": 0.005892700006597806, "n": 10, "seed": 5, "method": "uniform"}
+{"infeasible_fraction": 0.72, "min_h": -0.005792626606554607, "alloc_milliseconds": 0.0226848750054387, "n": 10, "seed": 5, "method": "capability"}
+{"infeasible_fraction": 0.02, "min_h": -5.017818601260604e-05, "alloc_milliseconds": 1.886545449997925, "n": 10, "seed": 5, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.0007888491341002113, "alloc_milliseconds": 0.0, "n": 10, "seed": 6, "method": "centralized"}
+{"infeasible_fraction": 0.825, "min_h": -0.1454519842477586, "alloc_milliseconds": 0.006052464999015683, "n": 10, "seed": 6, "method": "uniform"}
+{"infeasible_fraction": 0.855, "min_h": -0.11602489766230273, "alloc_milliseconds": 0.02351367999665399, "n": 10, "seed": 6, "method": "capability"}
+{"infeasible_fraction": 0.015, "min_h": 0.006132181686313465, "alloc_milliseconds": 1.777494964991888, "n": 10, "seed": 6, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.0033967146342345766, "alloc_milliseconds": 0.0, "n": 10, "seed": 7, "method": "centralized"}
+{"infeasible_fraction": 0.745, "min_h": -0.038984690289946, "alloc_milliseconds": 0.00623003500379582, "n": 10, "seed": 7, "method": "uniform"}
+{"infeasible_fraction": 0.79, "min_h": -0.040276001995609434, "alloc_milliseconds": 0.02739812999834612, "n": 10, "seed": 7, "method": "capability"}
+{"infeasible_fraction": 0.615, "min_h": -0.023150845734590753, "alloc_milliseconds": 1.715553129998284, "n": 10, "seed": 7, "method": "certificate"}
+{"infeasible_fraction": 0.28, "min_h": -0.0005119805085314622, "alloc_milliseconds": 0.0, "n": 12, "seed": 0, "method": "centralized"}
+{"infeasible_fraction": 0.76, "min_h": -0.0782145886752284, "alloc_milliseconds": 0.005010024998455265, "n": 12, "seed": 0, "method": "uniform"}
+{"infeasible_fraction": 0.75, "min_h": -0.05996368741222757, "alloc_milliseconds": 0.02704537499937487, "n": 12, "seed": 0, "method": "capability"}
+{"infeasible_fraction": 0.035, "min_h": 0.0025874571468916807, "alloc_milliseconds": 2.0518250649996617, "n": 12, "seed": 0, "method": "certificate"}
+{"infeasible_fraction": 0.225, "min_h": 0.00018500420030248543, "alloc_milliseconds": 0.0, "n": 12, "seed": 1, "method": "centralized"}
+{"infeasible_fraction": 0.33, "min_h": 0.0002747069533340918, "alloc_milliseconds": 0.004661825000198405, "n": 12, "seed": 1, "method": "uniform"}
+{"infeasible_fraction": 0.2, "min_h": 0.00016524578725191086, "alloc_milliseconds": 0.02014695500633934, "n": 12, "seed": 1, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 0.01417595131991417, "alloc_milliseconds": 1.8312427799958186, "n": 12, "seed": 1, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.0002229673784439612, "alloc_milliseconds": 0.0, "n": 12, "seed": 2, "method": "centralized"}
+{"infeasible_fraction": 0.715, "min_h": -0.12808219073455598, "alloc_milliseconds": 0.006322895004586826, "n": 12, "seed": 2, "method": "uniform"}
+{"infeasible_fraction": 0.715, "min_h": -0.12146595475876773, "alloc_milliseconds": 0.030586650000259397, "n": 12, "seed": 2, "method": "capability"}
+{"infeasible_fraction": 0.025, "min_h": 0.003707728665524268, "alloc_milliseconds": 1.8220871049965126, "n": 12, "seed": 2, "method": "certificate"}
+{"infeasible_fraction": 0.01, "min_h": 0.0003853149153575375, "alloc_milliseconds": 0.0, "n": 12, "seed": 3, "method": "centralized"}
+{"infeasible_fraction": 0.825, "min_h": -0.05218364981599716, "alloc_milliseconds": 0.004644165005629475, "n": 12, "seed": 3, "method": "uniform"}
+{"infeasible_fraction": 0.81, "min_h": -0.031610507565323465, "alloc_milliseconds": 0.025217575005171966, "n": 12, "seed": 3, "method": "capability"}
+{"infeasible_fraction": 0.27, "min_h": -0.010815010329654207, "alloc_milliseconds": 1.7505080049994604, "n": 12, "seed": 3, "method": "certificate"}
+{"infeasible_fraction": 0.11, "min_h": -0.0004100034943489983, "alloc_milliseconds": 0.0, "n": 12, "seed": 4, "method": "centralized"}
+{"infeasible_fraction": 0.8, "min_h": -0.06753900919246392, "alloc_milliseconds": 0.005626994998237933, "n": 12, "seed": 4, "method": "uniform"}
+{"infeasible_fraction": 0.705, "min_h": -0.014466285192626327, "alloc_milliseconds": 0.024411659995280388, "n": 12, "seed": 4, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.024584761470886562, "alloc_milliseconds": 0.0, "n": 6, "seed": 8, "method": "centralized"}
+{"infeasible_fraction": 0.13, "min_h": 0.005286018687501004, "alloc_milliseconds": 0.006589310000393311, "n": 6, "seed": 8, "method": "uniform"}
+{"infeasible_fraction": 0.2, "min_h": -0.01801153877876177, "alloc_milliseconds": 0.05854309999957508, "n": 6, "seed": 8, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.2635500727182901, "alloc_milliseconds": 4.477787334999661, "n": 6, "seed": 8, "method": "certificate"}
+{"infeasible_fraction": 0.24, "min_h": 0.0007412299924708377, "alloc_milliseconds": 0.0, "n": 6, "seed": 9, "method": "centralized"}
+{"infeasible_fraction": 0.55, "min_h": -0.04844018308144776, "alloc_milliseconds": 0.00698251499997582, "n": 6, "seed": 9, "method": "uniform"}
+{"infeasible_fraction": 0.64, "min_h": -0.10223894849757864, "alloc_milliseconds": 0.035991745000458764, "n": 6, "seed": 9, "method": "capability"}
+{"infeasible_fraction": 0.205, "min_h": 0.0050935415078371404, "alloc_milliseconds": 4.333435239998593, "n": 6, "seed": 9, "method": "certificate"}
+{"infeasible_fraction": 0.005, "min_h": 0.00010992356816291737, "alloc_milliseconds": 0.0, "n": 8, "seed": 8, "method": "centralized"}
+{"infeasible_fraction": 0.265, "min_h": -0.008199857743601657, "alloc_milliseconds": 0.006809889998748986, "n": 8, "seed": 8, "method": "uniform"}
+{"infeasible_fraction": 0.33, "min_h": -0.03242948254291622, "alloc_milliseconds": 0.060586355000538106, "n": 8, "seed": 8, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 0.00569622663322894, "alloc_milliseconds": 4.7661383500009435, "n": 8, "seed": 8, "method": "certificate"}
+{"infeasible_fraction": 0.13, "min_h": -0.0002318509926218515, "alloc_milliseconds": 0.0, "n": 8, "seed": 9, "method": "centralized"}
+{"infeasible_fraction": 0.28, "min_h": 0.03034039604470512, "alloc_milliseconds": 0.007021819999408763, "n": 8, "seed": 9, "method": "uniform"}
+{"infeasible_fraction": 0.135, "min_h": 0.03119522412800607, "alloc_milliseconds": 0.040613204999857544, "n": 8, "seed": 9, "method": "capability"}
+{"infeasible_fraction": 0.09, "min_h": 0.09744987538299787, "alloc_milliseconds": 2.166906769996899, "n": 8, "seed": 9, "method": "certificate"}
+{"infeasible_fraction": 0.055, "min_h": 0.00015397403264549858, "alloc_milliseconds": 0.0, "n": 10, "seed": 8, "method": "centralized"}
+{"infeasible_fraction": 0.79, "min_h": -0.10041392680185307, "alloc_milliseconds": 0.00662926500751837, "n": 10, "seed": 8, "method": "uniform"}
+{"infeasible_fraction": 0.77, "min_h": -0.07239318968937708, "alloc_milliseconds": 0.024020750004183355, "n": 10, "seed": 8, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.0006170926044772318, "alloc_milliseconds": 2.3172159449939045, "n": 10, "seed": 8, "method": "certificate"}
+{"infeasible_fraction": 0.01, "min_h": 0.0002304238280900761, "alloc_milliseconds": 0.0, "n": 10, "seed": 9, "method": "centralized"}
+{"infeasible_fraction": 0.705, "min_h": -0.05757193721092563, "alloc_milliseconds": 0.006427164996694046, "n": 10, "seed": 9, "method": "uniform"}
+{"infeasible_fraction": 0.825, "min_h": -0.02737029112192757, "alloc_milliseconds": 0.02817468999751327, "n": 10, "seed": 9, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.02046977329824451, "alloc_milliseconds": 2.409169730001395, "n": 10, "seed": 9, "method": "certificate"}
+{"infeasible_fraction": 0.01, "min_h": 0.04605285974694112, "alloc_milliseconds": 2.470191715000283, "n": 12, "seed": 4, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": 0.0006860654133102884, "alloc_milliseconds": 0.0, "n": 12, "seed": 5, "method": "centralized"}
+{"infeasible_fraction": 0.78, "min_h": -0.07227478601793386, "alloc_milliseconds": 0.006616249996227452, "n": 12, "seed": 5, "method": "uniform"}
+{"infeasible_fraction": 0.665, "min_h": -0.018848041047082043, "alloc_milliseconds": 0.03213611999967725, "n": 12, "seed": 5, "method": "capability"}
+{"infeasible_fraction": 0.025, "min_h": -0.0008547845531932663, "alloc_milliseconds": 2.5556733500064865, "n": 12, "seed": 5, "method": "certificate"}
+{"infeasible_fraction": 0.0, "min_h": -0.00048276564389182486, "alloc_milliseconds": 0.0, "n": 12, "seed": 6, "method": "centralized"}
+{"infeasible_fraction": 0.765, "min_h": -0.058433298486574414, "alloc_milliseconds": 0.007020419997729732, "n": 12, "seed": 6, "method": "uniform"}
+{"infeasible_fraction": 0.745, "min_h": -0.06928840753218735, "alloc_milliseconds": 0.047960255000703, "n": 12, "seed": 6, "method": "capability"}
+{"infeasible_fraction": 0.01, "min_h": 0.0001478202925975225, "alloc_milliseconds": 2.6626106950016037, "n": 12, "seed": 6, "method": "certificate"}
+{"infeasible_fraction": 0.035, "min_h": 0.0004432505755929128, "alloc_milliseconds": 0.0, "n": 12, "seed": 7, "method": "centralized"}
+{"infeasible_fraction": 0.825, "min_h": -0.027153246633286665, "alloc_milliseconds": 0.00689665500033243, "n": 12, "seed": 7, "method": "uniform"}
+{"infeasible_fraction": 0.79, "min_h": -0.042292192928504335, "alloc_milliseconds": 0.0444175199976371, "n": 12, "seed": 7, "method": "capability"}
+{"infeasible_fraction": 0.015, "min_h": 0.0159934444794117, "alloc_milliseconds": 2.8557533649973266, "n": 12, "seed": 7, "method": "certificate"}
+{"infeasible_fraction": 0.17, "min_h": 0.0003293312332321996, "alloc_milliseconds": 0.0, "n": 12, "seed": 8, "method": "centralized"}
+{"infeasible_fraction": 0.49, "min_h": -0.021000617829538215, "alloc_milliseconds": 0.006971739995833559, "n": 12, "seed": 8, "method": "uniform"}
+{"infeasible_fraction": 0.62, "min_h": -0.015859790487044834, "alloc_milliseconds": 0.03411818500353547, "n": 12, "seed": 8, "method": "capability"}
+{"infeasible_fraction": 0.02, "min_h": 0.0028772215990041095, "alloc_milliseconds": 2.6284251399999903, "n": 12, "seed": 8, "method": "certificate"}
+{"infeasible_fraction": 0.075, "min_h": 0.00015224229608873374, "alloc_milliseconds": 0.0, "n": 12, "seed": 9, "method": "centralized"}
+{"infeasible_fraction": 0.79, "min_h": -0.08019050929390015, "alloc_milliseconds": 0.008556225001825624, "n": 12, "seed": 9, "method": "uniform"}
+{"infeasible_fraction": 0.615, "min_h": -0.04997741368764497, "alloc_milliseconds": 0.04547561999800109, "n": 12, "seed": 9, "method": "capability"}
+{"infeasible_fraction": 0.0, "min_h": 0.010467804898374067, "alloc_milliseconds": 2.747412195016068, "n": 12, "seed": 9, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0016419879072911425, "alloc_milliseconds": 0.0, "n": 6, "seed": 10, "method": "centralized"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": 0.0025384489552532363, "alloc_milliseconds": 0.006979330001257722, "n": 6, "seed": 10, "method": "uniform"}
+{"infeasible_fraction": 0.05, "fallback_fraction": 0.0, "min_h": 0.002542092552615449, "alloc_milliseconds": 0.05590116500059139, "n": 6, "seed": 10, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0029127522482384482, "alloc_milliseconds": 0.0, "n": 6, "seed": 11, "method": "centralized"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.001411079057176745, "alloc_milliseconds": 0.026959125000161066, "n": 6, "seed": 11, "method": "uniform"}
+{"infeasible_fraction": 0.03, "fallback_fraction": 0.0, "min_h": 0.0013754606951907888, "alloc_milliseconds": 0.015746845000990106, "n": 6, "seed": 11, "method": "capability"}
+{"infeasible_fraction": 0.135, "fallback_fraction": 0.0, "min_h": 0.00813363853647242, "alloc_milliseconds": 0.0, "n": 6, "seed": 12, "method": "centralized"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.007115885700017199, "alloc_milliseconds": 0.02699717000069768, "n": 6, "seed": 12, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.001504243557749252, "alloc_milliseconds": 0.05997464999751401, "n": 6, "seed": 12, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.010283215250065703, "alloc_milliseconds": 0.0, "n": 6, "seed": 13, "method": "centralized"}
+{"infeasible_fraction": 0.225, "fallback_fraction": 0.0, "min_h": -0.0004528156801857919, "alloc_milliseconds": 0.006135704998371239, "n": 6, "seed": 13, "method": "uniform"}
+{"infeasible_fraction": 0.505, "fallback_fraction": 0.0, "min_h": -0.056060959373890384, "alloc_milliseconds": 0.013199320003707271, "n": 6, "seed": 13, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00492686664602443, "alloc_milliseconds": 0.0, "n": 6, "seed": 14, "method": "centralized"}
+{"infeasible_fraction": 0.235, "fallback_fraction": 0.0, "min_h": -0.0009334044230309702, "alloc_milliseconds": 0.007008505001238063, "n": 6, "seed": 14, "method": "uniform"}
+{"infeasible_fraction": 0.22, "fallback_fraction": 0.0, "min_h": 0.02171777677904524, "alloc_milliseconds": 0.017409139997823786, "n": 6, "seed": 14, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.007323718872842833, "alloc_milliseconds": 0.0, "n": 6, "seed": 15, "method": "centralized"}
+{"infeasible_fraction": 0.065, "fallback_fraction": 0.0, "min_h": 0.010060595919772597, "alloc_milliseconds": 0.006901744998515369, "n": 6, "seed": 15, "method": "uniform"}
+{"infeasible_fraction": 0.575, "fallback_fraction": 0.0, "min_h": -0.0026881514577273835, "alloc_milliseconds": 0.07893513500135896, "n": 6, "seed": 15, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.08868222024576106, "alloc_milliseconds": 0.0, "n": 6, "seed": 16, "method": "centralized"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": 0.09590426312273698, "alloc_milliseconds": 0.006714809999550653, "n": 6, "seed": 16, "method": "uniform"}
+{"infeasible_fraction": 0.035, "fallback_fraction": 0.0, "min_h": 0.024717932545260224, "alloc_milliseconds": 0.03614142000230913, "n": 6, "seed": 16, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.02350265233001625, "alloc_milliseconds": 0.0, "n": 6, "seed": 17, "method": "centralized"}
+{"infeasible_fraction": 0.59, "fallback_fraction": 0.0, "min_h": -0.10589905186753151, "alloc_milliseconds": 0.027061994999542094, "n": 6, "seed": 17, "method": "uniform"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.002649598250390628, "alloc_milliseconds": 4.210314360002485, "n": 6, "seed": 10, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.005656547554518221, "alloc_milliseconds": 4.149025599999732, "n": 6, "seed": 11, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.03488521912669906, "alloc_milliseconds": 3.88521142500565, "n": 6, "seed": 12, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.14520893423598613, "alloc_milliseconds": 4.125789060000784, "n": 6, "seed": 13, "method": "certificate"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0030022349666535275, "alloc_milliseconds": 4.162260004998188, "n": 6, "seed": 14, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.014976239705126126, "alloc_milliseconds": 3.7472709699966344, "n": 6, "seed": 15, "method": "certificate"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": -0.0011656795767410189, "alloc_milliseconds": 3.8749126400023215, "n": 6, "seed": 16, "method": "certificate"}
+{"infeasible_fraction": 0.28, "fallback_fraction": 0.0, "min_h": -0.003417725274869776, "alloc_milliseconds": 4.272441259998914, "n": 6, "seed": 17, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.07487073316880494, "alloc_milliseconds": 4.179422220004767, "n": 6, "seed": 18, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.012346978636676609, "alloc_milliseconds": 3.962426075000849, "n": 6, "seed": 19, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.004451360885801947, "alloc_milliseconds": 3.9951089700019793, "n": 6, "seed": 20, "method": "certificate"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.1280801673814832, "alloc_milliseconds": 3.8765851849984756, "n": 6, "seed": 21, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0060463206307393436, "alloc_milliseconds": 4.1879495149976265, "n": 6, "seed": 22, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.017056963549563764, "alloc_milliseconds": 4.123783560000902, "n": 6, "seed": 23, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.0011028682718719485, "alloc_milliseconds": 4.034912599997824, "n": 8, "seed": 10, "method": "certificate"}
+{"infeasible_fraction": 0.58, "fallback_fraction": 0.0, "min_h": -0.009705788288498662, "alloc_milliseconds": 0.017006265001100473, "n": 6, "seed": 17, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.01862449803558963, "alloc_milliseconds": 0.0, "n": 6, "seed": 18, "method": "centralized"}
+{"infeasible_fraction": 0.515, "fallback_fraction": 0.0, "min_h": -0.043313831029675454, "alloc_milliseconds": 0.026572689998261012, "n": 6, "seed": 18, "method": "uniform"}
+{"infeasible_fraction": 0.235, "fallback_fraction": 0.0, "min_h": 0.028405515784530544, "alloc_milliseconds": 0.03687531999503335, "n": 6, "seed": 18, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.0040166708175643495, "alloc_milliseconds": 0.0, "n": 6, "seed": 19, "method": "centralized"}
+{"infeasible_fraction": 0.32, "fallback_fraction": 0.0, "min_h": -0.004798749677022429, "alloc_milliseconds": 0.006632900000340669, "n": 6, "seed": 19, "method": "uniform"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.004647481691418265, "alloc_milliseconds": 0.03650343999879624, "n": 6, "seed": 19, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00436801624334443, "alloc_milliseconds": 0.0, "n": 6, "seed": 20, "method": "centralized"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.004485962565050516, "alloc_milliseconds": 0.006623335004860564, "n": 6, "seed": 20, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.004498048689422218, "alloc_milliseconds": 0.03486927499295689, "n": 6, "seed": 20, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.15131153842738565, "alloc_milliseconds": 0.0, "n": 6, "seed": 21, "method": "centralized"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.1799989307586527, "alloc_milliseconds": 0.0062074700008452055, "n": 6, "seed": 21, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.20121555292478766, "alloc_milliseconds": 0.035325594999449095, "n": 6, "seed": 21, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.002666237555707607, "alloc_milliseconds": 0.0, "n": 6, "seed": 22, "method": "centralized"}
+{"infeasible_fraction": 0.09, "fallback_fraction": 0.0, "min_h": 0.0025902927110622587, "alloc_milliseconds": 0.006619680001449524, "n": 6, "seed": 22, "method": "uniform"}
+{"infeasible_fraction": 0.25, "fallback_fraction": 0.0, "min_h": -0.0038291745859602155, "alloc_milliseconds": 0.016000779999103543, "n": 6, "seed": 22, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0035732503213069533, "alloc_milliseconds": 0.0, "n": 6, "seed": 23, "method": "centralized"}
+{"infeasible_fraction": 0.135, "fallback_fraction": 0.0, "min_h": 0.011973738979504545, "alloc_milliseconds": 0.006688239998879908, "n": 6, "seed": 23, "method": "uniform"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.015493841847257883, "alloc_milliseconds": 0.03548492500044631, "n": 6, "seed": 23, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0027008477472317827, "alloc_milliseconds": 0.0, "n": 8, "seed": 10, "method": "centralized"}
+{"infeasible_fraction": 0.435, "fallback_fraction": 0.0, "min_h": -0.005518548538991197, "alloc_milliseconds": 0.0070522450005228166, "n": 8, "seed": 10, "method": "uniform"}
+{"infeasible_fraction": 0.325, "fallback_fraction": 0.0, "min_h": -0.020941797899936554, "alloc_milliseconds": 0.04171382499066567, "n": 8, "seed": 10, "method": "capability"}
+{"infeasible_fraction": 0.26, "fallback_fraction": 0.0, "min_h": 2.947853854129434e-05, "alloc_milliseconds": 0.0, "n": 8, "seed": 11, "method": "centralized"}
+{"infeasible_fraction": 0.16, "fallback_fraction": 0.0, "min_h": 0.000809513159944597, "alloc_milliseconds": 0.04706028501118453, "n": 8, "seed": 11, "method": "uniform"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": 0.0008277299090396761, "alloc_milliseconds": 0.020384814999943046, "n": 8, "seed": 11, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00036169608472802484, "alloc_milliseconds": 0.0, "n": 8, "seed": 12, "method": "centralized"}
+{"infeasible_fraction": 0.665, "fallback_fraction": 0.0, "min_h": -0.011136714528167335, "alloc_milliseconds": 0.026741615008631925, "n": 8, "seed": 12, "method": "uniform"}
+{"infeasible_fraction": 0.6, "fallback_fraction": 0.0, "min_h": -0.01064450726179117, "alloc_milliseconds": 0.041010329996424844, "n": 8, "seed": 12, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.007628935575669071, "alloc_milliseconds": 0.0, "n": 8, "seed": 13, "method": "centralized"}
+{"infeasible_fraction": 0.74, "fallback_fraction": 0.0, "min_h": -0.023884971770323726, "alloc_milliseconds": 0.02680614000382775, "n": 8, "seed": 13, "method": "uniform"}
+{"infeasible_fraction": 0.64, "fallback_fraction": 0.0, "min_h": -0.024364875869879454, "alloc_milliseconds": 0.04231649000644211, "n": 8, "seed": 13, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0001095126593394502, "alloc_milliseconds": 0.0, "n": 8, "seed": 14, "method": "centralized"}
+{"infeasible_fraction": 0.7, "fallback_fraction": 0.0, "min_h": -0.03745966489074015, "alloc_milliseconds": 0.0468465250060035, "n": 8, "seed": 14, "method": "uniform"}
+{"infeasible_fraction": 0.68, "fallback_fraction": 0.0, "min_h": -0.024769264101440258, "alloc_milliseconds": 0.025325209995799014, "n": 8, "seed": 14, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0013690375241041108, "alloc_milliseconds": 0.0, "n": 8, "seed": 15, "method": "centralized"}
+{"infeasible_fraction": 0.13, "fallback_fraction": 0.0, "min_h": -9.361545450614628e-06, "alloc_milliseconds": 0.026675589991782545, "n": 8, "seed": 15, "method": "uniform"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.00015213682759218639, "alloc_milliseconds": 0.019676609991847727, "n": 8, "seed": 15, "method": "capability"}
+{"infeasible_fraction": 0.11, "fallback_fraction": 0.0, "min_h": 0.00018643204476709307, "alloc_milliseconds": 0.0, "n": 8, "seed": 16, "method": "centralized"}
+{"infeasible_fraction": 0.595, "fallback_fraction": 0.0, "min_h": -0.0749741103476213, "alloc_milliseconds": 0.0062673599938989355, "n": 8, "seed": 16, "method": "uniform"}
+{"infeasible_fraction": 0.58, "fallback_fraction": 0.0, "min_h": -0.060636268846257224, "alloc_milliseconds": 0.01911949998543605, "n": 8, "seed": 16, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.002732516812674779, "alloc_milliseconds": 0.0, "n": 8, "seed": 17, "method": "centralized"}
+{"infeasible_fraction": 0.305, "fallback_fraction": 0.0, "min_h": 0.0036549577742004957, "alloc_milliseconds": 0.006116109996128216, "n": 8, "seed": 17, "method": "uniform"}
+{"infeasible_fraction": 0.225, "fallback_fraction": 0.0, "min_h": 0.003682942411620982, "alloc_milliseconds": 0.01981915499641218, "n": 8, "seed": 17, "method": "capability"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": 0.010535410877620388, "alloc_milliseconds": 0.0, "n": 8, "seed": 18, "method": "centralized"}
+{"infeasible_fraction": 0.25, "fallback_fraction": 0.0, "min_h": -0.001461445679654505, "alloc_milliseconds": 0.00636880501019732, "n": 8, "seed": 18, "method": "uniform"}
+{"infeasible_fraction": 0.175, "fallback_fraction": 0.0, "min_h": 0.005158333722925512, "alloc_milliseconds": 0.01957376998802829, "n": 8, "seed": 18, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": -0.001130554749209034, "alloc_milliseconds": 0.0, "n": 8, "seed": 19, "method": "centralized"}
+{"infeasible_fraction": 0.46, "fallback_fraction": 0.0, "min_h": -0.014268617637297532, "alloc_milliseconds": 0.006661939999048627, "n": 8, "seed": 19, "method": "uniform"}
+{"infeasible_fraction": 0.51, "fallback_fraction": 0.0, "min_h": -0.007600499000783356, "alloc_milliseconds": 0.02231318501003443, "n": 8, "seed": 19, "method": "capability"}
+{"infeasible_fraction": 0.31, "fallback_fraction": 0.0, "min_h": -0.000440681389661024, "alloc_milliseconds": 0.0, "n": 8, "seed": 20, "method": "centralized"}
+{"infeasible_fraction": 0.47, "fallback_fraction": 0.0, "min_h": -0.19873882753195318, "alloc_milliseconds": 0.0065544150083951536, "n": 8, "seed": 20, "method": "uniform"}
+{"infeasible_fraction": 0.45, "fallback_fraction": 0.0, "min_h": -0.14425597095200648, "alloc_milliseconds": 0.021435465007471066, "n": 8, "seed": 20, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.001010161879080762, "alloc_milliseconds": 0.0, "n": 8, "seed": 21, "method": "centralized"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0003205703550778205, "alloc_milliseconds": 0.006017745001827279, "n": 8, "seed": 21, "method": "uniform"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0004142965353233219, "alloc_milliseconds": 0.019166545008602043, "n": 8, "seed": 21, "method": "capability"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.0012328898177569325, "alloc_milliseconds": 0.0, "n": 8, "seed": 22, "method": "centralized"}
+{"infeasible_fraction": 0.23, "fallback_fraction": 0.0, "min_h": 0.019872355300600608, "alloc_milliseconds": 0.006333675012228923, "n": 8, "seed": 22, "method": "uniform"}
+{"infeasible_fraction": 0.2, "fallback_fraction": 0.0, "min_h": -0.0017458828249860558, "alloc_milliseconds": 0.02196470500052783, "n": 8, "seed": 22, "method": "capability"}
+{"infeasible_fraction": 0.28, "fallback_fraction": 0.0, "min_h": 0.01051965870377719, "alloc_milliseconds": 0.0, "n": 8, "seed": 23, "method": "centralized"}
+{"infeasible_fraction": 0.185, "fallback_fraction": 0.0, "min_h": 0.057135246300437426, "alloc_milliseconds": 0.006635880012026973, "n": 8, "seed": 23, "method": "uniform"}
+{"infeasible_fraction": 0.175, "fallback_fraction": 0.0, "min_h": 0.05821800343397587, "alloc_milliseconds": 0.01963153500128101, "n": 8, "seed": 23, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00022767534697859526, "alloc_milliseconds": 0.0, "n": 10, "seed": 10, "method": "centralized"}
+{"infeasible_fraction": 0.715, "fallback_fraction": 0.0, "min_h": -0.03496483509112319, "alloc_milliseconds": 0.007009055004800757, "n": 10, "seed": 10, "method": "uniform"}
+{"infeasible_fraction": 0.42, "fallback_fraction": 0.0, "min_h": -0.0016130317979991537, "alloc_milliseconds": 0.030377935006526968, "n": 10, "seed": 10, "method": "capability"}
+{"infeasible_fraction": 0.115, "fallback_fraction": 0.0, "min_h": 0.0005176463303476209, "alloc_milliseconds": 0.0, "n": 10, "seed": 11, "method": "centralized"}
+{"infeasible_fraction": 0.28, "fallback_fraction": 0.0, "min_h": 0.0005084897663897303, "alloc_milliseconds": 0.006282095018832479, "n": 10, "seed": 11, "method": "uniform"}
+{"infeasible_fraction": 0.35, "fallback_fraction": 0.0, "min_h": -0.028392435152385487, "alloc_milliseconds": 0.02579297999773189, "n": 10, "seed": 11, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0013201688646464205, "alloc_milliseconds": 0.0, "n": 10, "seed": 12, "method": "centralized"}
+{"infeasible_fraction": 0.54, "fallback_fraction": 0.0, "min_h": -0.020431469739945807, "alloc_milliseconds": 0.006513624999797685, "n": 10, "seed": 12, "method": "uniform"}
+{"infeasible_fraction": 0.53, "fallback_fraction": 0.0, "min_h": 0.0013606656931332006, "alloc_milliseconds": 0.031582829992657935, "n": 10, "seed": 12, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": -0.002106912354157109, "alloc_milliseconds": 0.0, "n": 10, "seed": 13, "method": "centralized"}
+{"infeasible_fraction": 0.67, "fallback_fraction": 0.0, "min_h": -0.06918810573390577, "alloc_milliseconds": 0.005918235001445282, "n": 10, "seed": 13, "method": "uniform"}
+{"infeasible_fraction": 0.72, "fallback_fraction": 0.0, "min_h": -0.06886676101285055, "alloc_milliseconds": 0.025169659994617177, "n": 10, "seed": 13, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00010333358204112075, "alloc_milliseconds": 0.0, "n": 10, "seed": 14, "method": "centralized"}
+{"infeasible_fraction": 0.715, "fallback_fraction": 0.0, "min_h": -0.02622441777960105, "alloc_milliseconds": 0.006653425001559299, "n": 10, "seed": 14, "method": "uniform"}
+{"infeasible_fraction": 0.575, "fallback_fraction": 0.0, "min_h": -0.03353330693337525, "alloc_milliseconds": 0.03199276499685766, "n": 10, "seed": 14, "method": "capability"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": 0.0010381894535537728, "alloc_milliseconds": 0.0, "n": 10, "seed": 15, "method": "centralized"}
+{"infeasible_fraction": 0.665, "fallback_fraction": 0.0, "min_h": -0.02194884518292467, "alloc_milliseconds": 0.006650904990692652, "n": 10, "seed": 15, "method": "uniform"}
+{"infeasible_fraction": 0.655, "fallback_fraction": 0.0, "min_h": -0.03939375605494422, "alloc_milliseconds": 0.03099652000628339, "n": 10, "seed": 15, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -5.56715703278754e-05, "alloc_milliseconds": 0.0, "n": 10, "seed": 16, "method": "centralized"}
+{"infeasible_fraction": 0.485, "fallback_fraction": 0.0, "min_h": -0.052670652689857156, "alloc_milliseconds": 0.007234895005012731, "n": 10, "seed": 16, "method": "uniform"}
+{"infeasible_fraction": 0.51, "fallback_fraction": 0.0, "min_h": -0.04295244670747761, "alloc_milliseconds": 0.027676120013211403, "n": 10, "seed": 16, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": -0.0007606196574668767, "alloc_milliseconds": 0.0, "n": 10, "seed": 17, "method": "centralized"}
+{"infeasible_fraction": 0.4, "fallback_fraction": 0.0, "min_h": -0.01937839346221082, "alloc_milliseconds": 0.006689024999104731, "n": 10, "seed": 17, "method": "uniform"}
+{"infeasible_fraction": 0.29, "fallback_fraction": 0.0, "min_h": 0.000526436289506993, "alloc_milliseconds": 0.027736280002272906, "n": 10, "seed": 17, "method": "capability"}
+{"infeasible_fraction": 0.105, "fallback_fraction": 0.0, "min_h": -0.0005341999888022197, "alloc_milliseconds": 0.0, "n": 10, "seed": 18, "method": "centralized"}
+{"infeasible_fraction": 0.685, "fallback_fraction": 0.0, "min_h": -0.0668834619343801, "alloc_milliseconds": 0.00732880499640487, "n": 10, "seed": 18, "method": "uniform"}
+{"infeasible_fraction": 0.695, "fallback_fraction": 0.0, "min_h": -0.0927467899641976, "alloc_milliseconds": 0.028283154991868287, "n": 10, "seed": 18, "method": "capability"}
+{"infeasible_fraction": 0.13, "fallback_fraction": 0.0, "min_h": 0.0005474541725191129, "alloc_milliseconds": 0.0, "n": 10, "seed": 19, "method": "centralized"}
+{"infeasible_fraction": 0.685, "fallback_fraction": 0.0, "min_h": -0.03079983016618204, "alloc_milliseconds": 0.007216774999960762, "n": 10, "seed": 19, "method": "uniform"}
+{"infeasible_fraction": 0.725, "fallback_fraction": 0.0, "min_h": -0.04976787134800886, "alloc_milliseconds": 0.035100974992019474, "n": 10, "seed": 19, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00042073410402709843, "alloc_milliseconds": 0.0, "n": 10, "seed": 20, "method": "centralized"}
+{"infeasible_fraction": 0.775, "fallback_fraction": 0.0, "min_h": -0.10206346887141526, "alloc_milliseconds": 0.007108584998150036, "n": 10, "seed": 20, "method": "uniform"}
+{"infeasible_fraction": 0.775, "fallback_fraction": 0.0, "min_h": -0.15944484040405785, "alloc_milliseconds": 0.03325401000211059, "n": 10, "seed": 20, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.009051163748343694, "alloc_milliseconds": 0.0, "n": 10, "seed": 21, "method": "centralized"}
+{"infeasible_fraction": 0.44, "fallback_fraction": 0.0, "min_h": 0.00037810894185902333, "alloc_milliseconds": 0.0068586449867780175, "n": 10, "seed": 21, "method": "uniform"}
+{"infeasible_fraction": 0.315, "fallback_fraction": 0.0, "min_h": -0.01292889898852062, "alloc_milliseconds": 0.025711560001582257, "n": 10, "seed": 21, "method": "capability"}
+{"infeasible_fraction": 0.13, "fallback_fraction": 0.0, "min_h": 0.0062937859424371245, "alloc_milliseconds": 0.0, "n": 10, "seed": 22, "method": "centralized"}
+{"infeasible_fraction": 0.785, "fallback_fraction": 0.0, "min_h": -0.005943975593547535, "alloc_milliseconds": 0.007091399988894409, "n": 10, "seed": 22, "method": "uniform"}
+{"infeasible_fraction": 0.62, "fallback_fraction": 0.0, "min_h": -0.0004768107810139699, "alloc_milliseconds": 0.028802094991533522, "n": 10, "seed": 22, "method": "capability"}
+{"infeasible_fraction": 0.345, "fallback_fraction": 0.0, "min_h": -0.16446297010446298, "alloc_milliseconds": 0.0, "n": 10, "seed": 23, "method": "centralized"}
+{"infeasible_fraction": 0.155, "fallback_fraction": 0.0, "min_h": 0.005323211269357142, "alloc_milliseconds": 2.0673241600002257, "n": 8, "seed": 11, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0006892274159008838, "alloc_milliseconds": 2.7405895750098352, "n": 8, "seed": 12, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.06522907852420323, "alloc_milliseconds": 4.532958705008241, "n": 8, "seed": 13, "method": "certificate"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": 0.028445713181550647, "alloc_milliseconds": 4.533352579999246, "n": 8, "seed": 14, "method": "certificate"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.0020492904309148963, "alloc_milliseconds": 4.52452515498976, "n": 8, "seed": 15, "method": "certificate"}
+{"infeasible_fraction": 0.045, "fallback_fraction": 0.0, "min_h": 0.0006815289639919841, "alloc_milliseconds": 4.790234604992065, "n": 8, "seed": 16, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.00716682375123695, "alloc_milliseconds": 4.56980453000142, "n": 8, "seed": 17, "method": "certificate"}
+{"infeasible_fraction": 0.145, "fallback_fraction": 0.0, "min_h": 0.02789628187554355, "alloc_milliseconds": 4.704106819976914, "n": 8, "seed": 18, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0005407970335470358, "alloc_milliseconds": 4.841218490007577, "n": 8, "seed": 19, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.010406101585960559, "alloc_milliseconds": 4.316674654992312, "n": 8, "seed": 20, "method": "certificate"}
+{"infeasible_fraction": 0.035, "fallback_fraction": 0.0, "min_h": 0.0008645870340763806, "alloc_milliseconds": 4.272919425020518, "n": 8, "seed": 21, "method": "certificate"}
+{"infeasible_fraction": 0.205, "fallback_fraction": 0.0, "min_h": -0.012984163164856455, "alloc_milliseconds": 4.639642540014393, "n": 8, "seed": 22, "method": "certificate"}
+{"infeasible_fraction": 0.17, "fallback_fraction": 0.0, "min_h": 0.05989025507627638, "alloc_milliseconds": 1.9432186450000075, "n": 8, "seed": 23, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.002016620540119085, "alloc_milliseconds": 3.517351480000153, "n": 10, "seed": 10, "method": "certificate"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.07920432715676962, "alloc_milliseconds": 4.957051954999905, "n": 10, "seed": 11, "method": "certificate"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.0057869396667372675, "alloc_milliseconds": 4.891785950000553, "n": 10, "seed": 12, "method": "certificate"}
+{"infeasible_fraction": 0.295, "fallback_fraction": 0.0, "min_h": 0.00263869271669942, "alloc_milliseconds": 4.980785370000831, "n": 10, "seed": 13, "method": "certificate"}
+{"infeasible_fraction": 0.135, "fallback_fraction": 0.0, "min_h": -0.0016645681003122914, "alloc_milliseconds": 4.804385805000493, "n": 10, "seed": 14, "method": "certificate"}
+{"infeasible_fraction": 0.19, "fallback_fraction": 0.0, "min_h": 0.0023381801293901883, "alloc_milliseconds": 4.784557929999238, "n": 10, "seed": 15, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.0002890382984969131, "alloc_milliseconds": 5.3146446200004505, "n": 10, "seed": 16, "method": "certificate"}
+{"infeasible_fraction": 0.095, "fallback_fraction": 0.0, "min_h": 0.00039700961494654186, "alloc_milliseconds": 4.950281915001824, "n": 10, "seed": 17, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.08988316730426893, "alloc_milliseconds": 4.738187165000767, "n": 10, "seed": 18, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.006341336711500389, "alloc_milliseconds": 2.1759696999984612, "n": 10, "seed": 19, "method": "certificate"}
+{"infeasible_fraction": 0.065, "fallback_fraction": 0.0, "min_h": 0.002826713337233999, "alloc_milliseconds": 3.79735766499806, "n": 10, "seed": 20, "method": "certificate"}
+{"infeasible_fraction": 0.08, "fallback_fraction": 0.0, "min_h": 0.020723260072982697, "alloc_milliseconds": 4.649588350001181, "n": 10, "seed": 21, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.008201028486575113, "alloc_milliseconds": 4.478981534999775, "n": 10, "seed": 22, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.013289330996730075, "alloc_milliseconds": 4.741050445000212, "n": 10, "seed": 23, "method": "certificate"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.00025295359696636543, "alloc_milliseconds": 5.454971929998749, "n": 12, "seed": 10, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": -0.003876452459077584, "alloc_milliseconds": 5.166426769998793, "n": 12, "seed": 11, "method": "certificate"}
+{"infeasible_fraction": 0.09, "fallback_fraction": 0.0, "min_h": 0.008548033009389444, "alloc_milliseconds": 5.048696785000004, "n": 12, "seed": 12, "method": "certificate"}
+{"infeasible_fraction": 0.03, "fallback_fraction": 0.0, "min_h": 0.011643283726400222, "alloc_milliseconds": 5.1423821899925315, "n": 12, "seed": 13, "method": "certificate"}
+{"infeasible_fraction": 0.12, "fallback_fraction": 0.0, "min_h": 0.003416348925972923, "alloc_milliseconds": 2.3779473999991296, "n": 12, "seed": 14, "method": "certificate"}
+{"infeasible_fraction": 0.145, "fallback_fraction": 0.0, "min_h": -0.0047796831064225165, "alloc_milliseconds": 5.272552189998692, "n": 12, "seed": 15, "method": "certificate"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.004854223722909723, "alloc_milliseconds": 5.17828349500121, "n": 12, "seed": 16, "method": "certificate"}
+{"infeasible_fraction": 0.035, "fallback_fraction": 0.0, "min_h": 0.026688678836681134, "alloc_milliseconds": 5.247906879999391, "n": 12, "seed": 17, "method": "certificate"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": -0.009650089965528297, "alloc_milliseconds": 5.087881140003674, "n": 12, "seed": 18, "method": "certificate"}
+{"infeasible_fraction": 0.205, "fallback_fraction": 0.0, "min_h": -0.010298807510188912, "alloc_milliseconds": 5.054290095004603, "n": 12, "seed": 19, "method": "certificate"}
+{"infeasible_fraction": 0.055, "fallback_fraction": 0.0, "min_h": 0.000247785711542825, "alloc_milliseconds": 5.4687406499999724, "n": 12, "seed": 20, "method": "certificate"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.002716825364750375, "alloc_milliseconds": 5.031118449996939, "n": 12, "seed": 21, "method": "certificate"}
+{"infeasible_fraction": 0.715, "fallback_fraction": 0.0, "min_h": -0.1644554512568454, "alloc_milliseconds": 0.0064383999989559015, "n": 10, "seed": 23, "method": "uniform"}
+{"infeasible_fraction": 0.725, "fallback_fraction": 0.0, "min_h": -0.1644540673967646, "alloc_milliseconds": 0.07010928999022781, "n": 10, "seed": 23, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0010955367699578833, "alloc_milliseconds": 0.0, "n": 12, "seed": 10, "method": "centralized"}
+{"infeasible_fraction": 0.8, "fallback_fraction": 0.0, "min_h": -0.10785115043082488, "alloc_milliseconds": 0.007595810004090708, "n": 12, "seed": 10, "method": "uniform"}
+{"infeasible_fraction": 0.87, "fallback_fraction": 0.0, "min_h": -0.08341077819283915, "alloc_milliseconds": 0.07989548000296054, "n": 12, "seed": 10, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00020739744138692506, "alloc_milliseconds": 0.0, "n": 12, "seed": 11, "method": "centralized"}
+{"infeasible_fraction": 0.755, "fallback_fraction": 0.0, "min_h": -0.12845973850412992, "alloc_milliseconds": 0.04862416000264602, "n": 12, "seed": 11, "method": "uniform"}
+{"infeasible_fraction": 0.75, "fallback_fraction": 0.0, "min_h": -0.09955020175311136, "alloc_milliseconds": 0.07876058999841007, "n": 12, "seed": 11, "method": "capability"}
+{"infeasible_fraction": 0.365, "fallback_fraction": 0.0, "min_h": -0.11477801890039269, "alloc_milliseconds": 0.0, "n": 12, "seed": 12, "method": "centralized"}
+{"infeasible_fraction": 0.865, "fallback_fraction": 0.0, "min_h": -0.07186752662721524, "alloc_milliseconds": 0.008173905000603554, "n": 12, "seed": 12, "method": "uniform"}
+{"infeasible_fraction": 0.725, "fallback_fraction": 0.0, "min_h": -0.05401840036232591, "alloc_milliseconds": 0.05503771999656237, "n": 12, "seed": 12, "method": "capability"}
+{"infeasible_fraction": 0.255, "fallback_fraction": 0.0, "min_h": -0.0008060990586873373, "alloc_milliseconds": 0.0, "n": 12, "seed": 13, "method": "centralized"}
+{"infeasible_fraction": 0.1, "fallback_fraction": 0.0, "min_h": 0.022466861065870036, "alloc_milliseconds": 0.0, "n": 6, "seed": 24, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00043611184459907415, "alloc_milliseconds": 0.0, "n": 6, "seed": 25, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.006987762776486384, "alloc_milliseconds": 0.0, "n": 6, "seed": 26, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0643253787347593, "alloc_milliseconds": 0.0, "n": 6, "seed": 27, "method": "centralized"}
+{"infeasible_fraction": 0.135, "fallback_fraction": 0.0, "min_h": -0.14616647281607606, "alloc_milliseconds": 0.0, "n": 6, "seed": 28, "method": "centralized"}
+{"infeasible_fraction": 0.14, "fallback_fraction": 0.0, "min_h": 0.0003404465327702111, "alloc_milliseconds": 0.0, "n": 6, "seed": 29, "method": "centralized"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0007776020730641542, "alloc_milliseconds": 0.0, "n": 6, "seed": 30, "method": "centralized"}
+{"infeasible_fraction": 0.505, "fallback_fraction": 0.0, "min_h": -0.35889047345333186, "alloc_milliseconds": 0.0, "n": 6, "seed": 31, "method": "centralized"}
+{"infeasible_fraction": 0.045, "fallback_fraction": 0.0, "min_h": 0.0019141402821052367, "alloc_milliseconds": 0.0, "n": 6, "seed": 32, "method": "centralized"}
+{"infeasible_fraction": 0.24, "fallback_fraction": 0.0, "min_h": -0.000376666557178551, "alloc_milliseconds": 0.0, "n": 6, "seed": 33, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.04964398702152689, "alloc_milliseconds": 0.0, "n": 6, "seed": 34, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.005148836776105392, "alloc_milliseconds": 0.0, "n": 6, "seed": 35, "method": "centralized"}
+{"infeasible_fraction": 0.265, "fallback_fraction": 0.0, "min_h": 0.0040111504124126784, "alloc_milliseconds": 0.0, "n": 6, "seed": 36, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -3.681386293502564e-05, "alloc_milliseconds": 0.0, "n": 6, "seed": 37, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 7.59122044476368e-05, "alloc_milliseconds": 0.0, "n": 6, "seed": 38, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0007284109688752705, "alloc_milliseconds": 0.0, "n": 6, "seed": 39, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.006376456540758468, "alloc_milliseconds": 0.0, "n": 8, "seed": 24, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -4.88725947584423e-05, "alloc_milliseconds": 0.0, "n": 8, "seed": 25, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00027296779765556556, "alloc_milliseconds": 0.0, "n": 8, "seed": 26, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0013805309907468089, "alloc_milliseconds": 0.0, "n": 8, "seed": 27, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.001685518952530607, "alloc_milliseconds": 0.0, "n": 8, "seed": 28, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00022154348680325509, "alloc_milliseconds": 0.0, "n": 8, "seed": 29, "method": "centralized"}
+{"infeasible_fraction": 0.72, "fallback_fraction": 0.0, "min_h": -0.1899616274396675, "alloc_milliseconds": 0.006995509997977933, "n": 6, "seed": 24, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0020569834158545852, "alloc_milliseconds": 0.0, "n": 8, "seed": 30, "method": "centralized"}
+{"infeasible_fraction": 0.3, "fallback_fraction": 0.0, "min_h": 0.0002019727859695064, "alloc_milliseconds": 0.0, "n": 8, "seed": 31, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.003617625278046821, "alloc_milliseconds": 0.0, "n": 8, "seed": 32, "method": "centralized"}
+{"infeasible_fraction": 0.495, "fallback_fraction": 0.0, "min_h": -0.17225105346198152, "alloc_milliseconds": 0.01770798000961804, "n": 6, "seed": 24, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0006898306508250629, "alloc_milliseconds": 0.0, "n": 8, "seed": 33, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.003886724002850117, "alloc_milliseconds": 0.0, "n": 8, "seed": 34, "method": "centralized"}
+{"infeasible_fraction": 0.335, "fallback_fraction": 0.0, "min_h": -0.015842979065987695, "alloc_milliseconds": 9.008638314999189, "n": 6, "seed": 24, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0012514342982683502, "alloc_milliseconds": 0.0, "n": 8, "seed": 35, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -5.477819684662766e-05, "alloc_milliseconds": 0.0, "n": 8, "seed": 36, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.015823215589573558, "alloc_milliseconds": 0.0, "n": 8, "seed": 37, "method": "centralized"}
+{"infeasible_fraction": 0.05, "fallback_fraction": 0.0, "min_h": 0.012320654796305952, "alloc_milliseconds": 0.0, "n": 8, "seed": 38, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -1.0266547807114002e-05, "alloc_milliseconds": 0.0, "n": 8, "seed": 39, "method": "centralized"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": -0.0014671906259746126, "alloc_milliseconds": 0.0, "n": 10, "seed": 24, "method": "centralized"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": -0.0005143372021546577, "alloc_milliseconds": 0.0, "n": 10, "seed": 25, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 9.292601456323268e-05, "alloc_milliseconds": 0.0, "n": 10, "seed": 26, "method": "centralized"}
+{"infeasible_fraction": 0.775, "fallback_fraction": 0.0, "min_h": -0.020468612540656628, "alloc_milliseconds": 0.06714117496812833, "n": 6, "seed": 25, "method": "uniform"}
+{"infeasible_fraction": 0.18, "fallback_fraction": 0.0, "min_h": 0.00017362176131607843, "alloc_milliseconds": 0.0, "n": 10, "seed": 27, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00046180629884645663, "alloc_milliseconds": 0.0, "n": 10, "seed": 28, "method": "centralized"}
+{"infeasible_fraction": 0.42, "fallback_fraction": 0.0, "min_h": -0.0015109206580987133, "alloc_milliseconds": 0.08048571502968116, "n": 6, "seed": 25, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 3.363068597761476e-05, "alloc_milliseconds": 0.0, "n": 10, "seed": 29, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0003676317703693033, "alloc_milliseconds": 0.0, "n": 10, "seed": 30, "method": "centralized"}
+{"infeasible_fraction": 0.155, "fallback_fraction": 0.0, "min_h": -0.0001890532010730972, "alloc_milliseconds": 0.0, "n": 10, "seed": 31, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.07599134915899725, "alloc_milliseconds": 9.39990942496479, "n": 6, "seed": 25, "method": "certificate"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.006538502494118303, "alloc_milliseconds": 0.0, "n": 10, "seed": 32, "method": "centralized"}
+{"infeasible_fraction": 0.235, "fallback_fraction": 0.0, "min_h": -0.06287974110299349, "alloc_milliseconds": 0.0, "n": 10, "seed": 33, "method": "centralized"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": 0.00043524262413280335, "alloc_milliseconds": 0.0, "n": 10, "seed": 34, "method": "centralized"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.00028179358761953877, "alloc_milliseconds": 0.0, "n": 10, "seed": 35, "method": "centralized"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": -0.000977437075446952, "alloc_milliseconds": 0.0, "n": 10, "seed": 36, "method": "centralized"}
+{"infeasible_fraction": 0.15, "fallback_fraction": 0.0, "min_h": 0.005935659337314658, "alloc_milliseconds": 0.006704744987473532, "n": 6, "seed": 26, "method": "uniform"}
+{"infeasible_fraction": 0.2, "fallback_fraction": 0.0, "min_h": 0.0010607789610762586, "alloc_milliseconds": 0.0, "n": 10, "seed": 37, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0004586592399036249, "alloc_milliseconds": 0.0, "n": 10, "seed": 38, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00016001160000866932, "alloc_milliseconds": 0.0, "n": 10, "seed": 39, "method": "centralized"}
+{"infeasible_fraction": 0.12, "fallback_fraction": 0.0, "min_h": 0.005955988396545875, "alloc_milliseconds": 0.13617840002098092, "n": 6, "seed": 26, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0005967341994025377, "alloc_milliseconds": 0.0, "n": 12, "seed": 14, "method": "centralized"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": -0.0010370969300378396, "alloc_milliseconds": 0.0, "n": 12, "seed": 15, "method": "centralized"}
+{"infeasible_fraction": 0.065, "fallback_fraction": 0.0, "min_h": 0.008088866761663038, "alloc_milliseconds": 8.562739390031311, "n": 6, "seed": 26, "method": "certificate"}
+{"infeasible_fraction": 0.095, "fallback_fraction": 0.0, "min_h": -2.9944802511894242e-05, "alloc_milliseconds": 0.0, "n": 12, "seed": 16, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0007982773841536672, "alloc_milliseconds": 0.0, "n": 12, "seed": 17, "method": "centralized"}
+{"infeasible_fraction": 0.05, "fallback_fraction": 0.0, "min_h": 0.00023624564233692968, "alloc_milliseconds": 0.0, "n": 12, "seed": 18, "method": "centralized"}
+{"infeasible_fraction": 0.415, "fallback_fraction": 0.0, "min_h": -0.29014611043398475, "alloc_milliseconds": 0.0, "n": 12, "seed": 19, "method": "centralized"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0004085294492022773, "alloc_milliseconds": 0.006514364981740073, "n": 6, "seed": 27, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -3.7580248816782014e-05, "alloc_milliseconds": 0.0, "n": 12, "seed": 20, "method": "centralized"}
+{"infeasible_fraction": 0.15, "fallback_fraction": 0.0, "min_h": -0.001195838595817733, "alloc_milliseconds": 0.0, "n": 12, "seed": 21, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00048036610546203784, "alloc_milliseconds": 0.07616410499849735, "n": 6, "seed": 27, "method": "capability"}
+{"infeasible_fraction": 0.3, "fallback_fraction": 0.0, "min_h": -0.09526802589993105, "alloc_milliseconds": 0.0, "n": 12, "seed": 22, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00044086024470929575, "alloc_milliseconds": 0.0, "n": 12, "seed": 23, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.0011154907276638704, "alloc_milliseconds": 0.0, "n": 12, "seed": 24, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.011542028744321475, "alloc_milliseconds": 8.100261760014291, "n": 6, "seed": 27, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0005564875440074446, "alloc_milliseconds": 0.0, "n": 12, "seed": 25, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00029600626638293104, "alloc_milliseconds": 0.0, "n": 12, "seed": 26, "method": "centralized"}
+{"infeasible_fraction": 0.165, "fallback_fraction": 0.0, "min_h": -0.1951859424029565, "alloc_milliseconds": 0.006871749969832308, "n": 6, "seed": 28, "method": "uniform"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": -0.0012767300922730818, "alloc_milliseconds": 0.0, "n": 12, "seed": 27, "method": "centralized"}
+{"infeasible_fraction": 0.15, "fallback_fraction": 0.0, "min_h": 0.0003959886890781972, "alloc_milliseconds": 0.0, "n": 12, "seed": 28, "method": "centralized"}
+{"infeasible_fraction": 0.17, "fallback_fraction": 0.0, "min_h": -0.18226404244463207, "alloc_milliseconds": 0.015464794983017782, "n": 6, "seed": 28, "method": "capability"}
+{"infeasible_fraction": 0.045, "fallback_fraction": 0.0, "min_h": -0.0013691499473523217, "alloc_milliseconds": 0.0, "n": 12, "seed": 29, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0003647680249667662, "alloc_milliseconds": 0.0, "n": 12, "seed": 30, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0024793971451330665, "alloc_milliseconds": 0.0, "n": 12, "seed": 31, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.00308251013318811, "alloc_milliseconds": 0.0, "n": 12, "seed": 32, "method": "centralized"}
+{"infeasible_fraction": 0.155, "fallback_fraction": 0.0, "min_h": 0.07893942948485572, "alloc_milliseconds": 8.594149514983656, "n": 6, "seed": 28, "method": "certificate"}
+{"infeasible_fraction": 0.05, "fallback_fraction": 0.0, "min_h": -0.0005047004841544633, "alloc_milliseconds": 0.0, "n": 12, "seed": 33, "method": "centralized"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.000957912664946603, "alloc_milliseconds": 0.0, "n": 12, "seed": 34, "method": "centralized"}
+{"infeasible_fraction": 0.195, "fallback_fraction": 0.0, "min_h": 0.0008039020340195879, "alloc_milliseconds": 0.006337684949357936, "n": 6, "seed": 29, "method": "uniform"}
+{"infeasible_fraction": 0.055, "fallback_fraction": 0.0, "min_h": 6.239520857442837e-05, "alloc_milliseconds": 0.0, "n": 12, "seed": 35, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00028580938563660396, "alloc_milliseconds": 0.0, "n": 12, "seed": 36, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0011690181183174886, "alloc_milliseconds": 0.0, "n": 12, "seed": 37, "method": "centralized"}
+{"infeasible_fraction": 0.065, "fallback_fraction": 0.0, "min_h": 0.0017368789285461816, "alloc_milliseconds": 0.07610543504142697, "n": 6, "seed": 29, "method": "capability"}
+{"infeasible_fraction": 0.32, "fallback_fraction": 0.0, "min_h": -0.018914129736894325, "alloc_milliseconds": 0.0, "n": 12, "seed": 38, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": -0.0012847815837832566, "alloc_milliseconds": 0.0, "n": 12, "seed": 39, "method": "centralized"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.4423974302679511, "alloc_milliseconds": 8.409602704946337, "n": 6, "seed": 29, "method": "certificate"}
+{"infeasible_fraction": 0.365, "fallback_fraction": 0.0, "min_h": 0.021212169280060755, "alloc_milliseconds": 0.06664234497748112, "n": 6, "seed": 30, "method": "uniform"}
+{"infeasible_fraction": 0.275, "fallback_fraction": 0.0, "min_h": -0.05770200680220661, "alloc_milliseconds": 0.11779189006574597, "n": 6, "seed": 30, "method": "capability"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": 0.007409635637136647, "alloc_milliseconds": 6.34856224500254, "n": 6, "seed": 30, "method": "certificate"}
+{"infeasible_fraction": 0.26, "fallback_fraction": 0.0, "min_h": -1.201415669505046e-05, "alloc_milliseconds": 0.006401325013030146, "n": 6, "seed": 31, "method": "uniform"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": -1.9807162681850787e-05, "alloc_milliseconds": 0.09372312501454871, "n": 6, "seed": 31, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.008076611876578987, "alloc_milliseconds": 5.999432114981573, "n": 6, "seed": 31, "method": "certificate"}
+{"infeasible_fraction": 0.525, "fallback_fraction": 0.0, "min_h": -0.06869903379703435, "alloc_milliseconds": 0.006193994959176052, "n": 6, "seed": 32, "method": "uniform"}
+{"infeasible_fraction": 0.62, "fallback_fraction": 0.0, "min_h": -0.028048184622954386, "alloc_milliseconds": 0.0574683999775516, "n": 6, "seed": 32, "method": "capability"}
+{"infeasible_fraction": 0.24, "fallback_fraction": 0.0, "min_h": 0.00018720945046157844, "alloc_milliseconds": 0.006422835003832006, "n": 6, "seed": 33, "method": "uniform"}
+{"infeasible_fraction": 0.24, "fallback_fraction": 0.0, "min_h": 0.00018825317079046444, "alloc_milliseconds": 0.054729309949834715, "n": 6, "seed": 33, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.00023801534732847962, "alloc_milliseconds": 6.581765485007054, "n": 6, "seed": 32, "method": "certificate"}
+{"infeasible_fraction": 0.275, "fallback_fraction": 0.0, "min_h": -0.0015308842497282482, "alloc_milliseconds": 0.04693994500030385, "n": 6, "seed": 34, "method": "uniform"}
+{"infeasible_fraction": 0.275, "fallback_fraction": 0.0, "min_h": 0.00549124101837567, "alloc_milliseconds": 0.014590495025004202, "n": 6, "seed": 34, "method": "capability"}
+{"infeasible_fraction": 0.12, "fallback_fraction": 0.0, "min_h": 0.00476088816785869, "alloc_milliseconds": 5.915208749961494, "n": 6, "seed": 33, "method": "certificate"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.01144186150102594, "alloc_milliseconds": 0.00775173498368531, "n": 6, "seed": 35, "method": "uniform"}
+{"infeasible_fraction": 0.105, "fallback_fraction": 0.0, "min_h": 0.0077019171245477636, "alloc_milliseconds": 0.05574047500431334, "n": 6, "seed": 35, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.004876848468948924, "alloc_milliseconds": 6.1490900799662995, "n": 6, "seed": 34, "method": "certificate"}
+{"infeasible_fraction": 0.42, "fallback_fraction": 0.0, "min_h": -0.04539927847862635, "alloc_milliseconds": 0.007149870020839444, "n": 6, "seed": 36, "method": "uniform"}
+{"infeasible_fraction": 0.61, "fallback_fraction": 0.0, "min_h": -0.27976100946447163, "alloc_milliseconds": 0.09883849003017531, "n": 6, "seed": 36, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.16607040395366524, "alloc_milliseconds": 5.983391744998698, "n": 6, "seed": 35, "method": "certificate"}
+{"infeasible_fraction": 0.315, "fallback_fraction": 0.0, "min_h": -0.027977756547049815, "alloc_milliseconds": 0.007723769963376981, "n": 6, "seed": 37, "method": "uniform"}
+{"infeasible_fraction": 0.345, "fallback_fraction": 0.0, "min_h": -0.012317847447536001, "alloc_milliseconds": 0.01676259998930618, "n": 6, "seed": 37, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.03916752057810663, "alloc_milliseconds": 6.58002114005285, "n": 6, "seed": 36, "method": "certificate"}
+{"infeasible_fraction": 0.615, "fallback_fraction": 0.0, "min_h": -0.0710501203717569, "alloc_milliseconds": 0.04748216999360011, "n": 6, "seed": 38, "method": "uniform"}
+{"infeasible_fraction": 0.67, "fallback_fraction": 0.0, "min_h": -0.02958480034979699, "alloc_milliseconds": 0.017471394990025146, "n": 6, "seed": 38, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": -0.0003482213272181789, "alloc_milliseconds": 6.213217219979015, "n": 6, "seed": 37, "method": "certificate"}
+{"infeasible_fraction": 0.245, "fallback_fraction": 0.0, "min_h": 0.019743764910824912, "alloc_milliseconds": 0.04723969498627412, "n": 6, "seed": 39, "method": "uniform"}
+{"infeasible_fraction": 0.075, "fallback_fraction": 0.0, "min_h": 0.021354422432524334, "alloc_milliseconds": 0.09778763997474016, "n": 6, "seed": 39, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 2.6532577942883773e-05, "alloc_milliseconds": 5.849283440034014, "n": 6, "seed": 38, "method": "certificate"}
+{"infeasible_fraction": 0.48, "fallback_fraction": 0.0, "min_h": -0.20231457801540065, "alloc_milliseconds": 0.008021475009627466, "n": 8, "seed": 24, "method": "uniform"}
+{"infeasible_fraction": 0.57, "fallback_fraction": 0.0, "min_h": -0.207269627610401, "alloc_milliseconds": 0.14602494998598559, "n": 8, "seed": 24, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.12006576625121529, "alloc_milliseconds": 6.321667509946565, "n": 6, "seed": 39, "method": "certificate"}
+{"infeasible_fraction": 0.74, "fallback_fraction": 0.0, "min_h": -0.03297550905197111, "alloc_milliseconds": 0.0072980650065801456, "n": 8, "seed": 25, "method": "uniform"}
+{"infeasible_fraction": 0.33, "fallback_fraction": 0.0, "min_h": -0.002154337639278303, "alloc_milliseconds": 0.10735081004895619, "n": 8, "seed": 25, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.0007446141870741108, "alloc_milliseconds": 6.211417170025015, "n": 8, "seed": 24, "method": "certificate"}
+{"infeasible_fraction": 0.325, "fallback_fraction": 0.0, "min_h": -0.010100303704061397, "alloc_milliseconds": 0.04831687498608517, "n": 8, "seed": 26, "method": "uniform"}
+{"infeasible_fraction": 0.635, "fallback_fraction": 0.0, "min_h": -0.0009392618910697981, "alloc_milliseconds": 0.08413561999986996, "n": 8, "seed": 26, "method": "capability"}
+{"infeasible_fraction": 0.63, "fallback_fraction": 0.0, "min_h": -0.05765605163195042, "alloc_milliseconds": 0.03884216999993306, "n": 8, "seed": 27, "method": "uniform"}
+{"infeasible_fraction": 0.57, "fallback_fraction": 0.0, "min_h": -0.04710810457645953, "alloc_milliseconds": 0.06273228000012843, "n": 8, "seed": 27, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 6.915366345966456e-05, "alloc_milliseconds": 6.520306805000032, "n": 8, "seed": 25, "method": "certificate"}
+{"infeasible_fraction": 0.4, "fallback_fraction": 0.0, "min_h": 0.03026843251234984, "alloc_milliseconds": 0.00760399500009612, "n": 8, "seed": 28, "method": "uniform"}
+{"infeasible_fraction": 0.095, "fallback_fraction": 0.0, "min_h": 0.0032059502535052298, "alloc_milliseconds": 0.05884303999984297, "n": 8, "seed": 28, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0005424679414749445, "alloc_milliseconds": 6.9626252799998785, "n": 8, "seed": 26, "method": "certificate"}
+{"infeasible_fraction": 0.495, "fallback_fraction": 0.0, "min_h": -0.02042171456734032, "alloc_milliseconds": 0.007853554999783796, "n": 8, "seed": 29, "method": "uniform"}
+{"infeasible_fraction": 0.52, "fallback_fraction": 0.0, "min_h": -0.017204263912617757, "alloc_milliseconds": 0.02050907000061386, "n": 8, "seed": 29, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0024721813873860854, "alloc_milliseconds": 7.361788509999419, "n": 8, "seed": 27, "method": "certificate"}
+{"infeasible_fraction": 0.505, "fallback_fraction": 0.0, "min_h": -0.16009653368791515, "alloc_milliseconds": 0.007101274999854468, "n": 8, "seed": 30, "method": "uniform"}
+{"infeasible_fraction": 0.41, "fallback_fraction": 0.0, "min_h": -0.04781527295059612, "alloc_milliseconds": 0.10214602500091985, "n": 8, "seed": 30, "method": "capability"}
+{"infeasible_fraction": 0.27, "fallback_fraction": 0.0, "min_h": -0.014447530614055903, "alloc_milliseconds": 6.4657155799994825, "n": 8, "seed": 28, "method": "certificate"}
+{"infeasible_fraction": 0.545, "fallback_fraction": 0.0, "min_h": -0.06613689301033226, "alloc_milliseconds": 0.007599320001787646, "n": 8, "seed": 31, "method": "uniform"}
+{"infeasible_fraction": 0.66, "fallback_fraction": 0.0, "min_h": -0.05020130302363457, "alloc_milliseconds": 0.021460755000077825, "n": 8, "seed": 31, "method": "capability"}
+{"infeasible_fraction": 0.055, "fallback_fraction": 0.0, "min_h": -0.004715438294687735, "alloc_milliseconds": 6.665253855000941, "n": 8, "seed": 29, "method": "certificate"}
+{"infeasible_fraction": 0.415, "fallback_fraction": 0.0, "min_h": -0.1327586592646037, "alloc_milliseconds": 0.0251837649992126, "n": 8, "seed": 32, "method": "uniform"}
+{"infeasible_fraction": 0.18, "fallback_fraction": 0.0, "min_h": 0.002986364865325164, "alloc_milliseconds": 0.019447829998995303, "n": 8, "seed": 32, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.011548019403476939, "alloc_milliseconds": 6.754345100002013, "n": 8, "seed": 30, "method": "certificate"}
+{"infeasible_fraction": 0.35, "fallback_fraction": 0.0, "min_h": -0.0014241013635240551, "alloc_milliseconds": 0.007304064999402726, "n": 8, "seed": 33, "method": "uniform"}
+{"infeasible_fraction": 0.225, "fallback_fraction": 0.0, "min_h": 0.0003309674674162322, "alloc_milliseconds": 0.1206470499998602, "n": 8, "seed": 33, "method": "capability"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": -0.011432499900758564, "alloc_milliseconds": 6.961863260001024, "n": 8, "seed": 31, "method": "certificate"}
+{"infeasible_fraction": 0.63, "fallback_fraction": 0.0, "min_h": -0.17988471313847826, "alloc_milliseconds": 0.007336980000616222, "n": 8, "seed": 34, "method": "uniform"}
+{"infeasible_fraction": 0.59, "fallback_fraction": 0.0, "min_h": -0.17004312190217696, "alloc_milliseconds": 0.059478369999510505, "n": 8, "seed": 34, "method": "capability"}
+{"infeasible_fraction": 0.51, "fallback_fraction": 0.0, "min_h": -0.021309865487086854, "alloc_milliseconds": 0.006807219999931391, "n": 8, "seed": 35, "method": "uniform"}
+{"infeasible_fraction": 0.43, "fallback_fraction": 0.0, "min_h": -0.01131591060495335, "alloc_milliseconds": 0.08396700000012913, "n": 8, "seed": 35, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.07361962335846534, "alloc_milliseconds": 7.3650513250000085, "n": 8, "seed": 32, "method": "certificate"}
+{"infeasible_fraction": 0.74, "fallback_fraction": 0.0, "min_h": -0.0637630192295201, "alloc_milliseconds": 0.0067488000001603154, "n": 8, "seed": 36, "method": "uniform"}
+{"infeasible_fraction": 0.54, "fallback_fraction": 0.0, "min_h": -0.06153840097595131, "alloc_milliseconds": 0.06637910500050026, "n": 8, "seed": 36, "method": "capability"}
+{"infeasible_fraction": 0.115, "fallback_fraction": 0.0, "min_h": 0.0029294950924655394, "alloc_milliseconds": 7.148450270000057, "n": 8, "seed": 33, "method": "certificate"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.1778824665791523, "alloc_milliseconds": 0.08745532999995476, "n": 8, "seed": 37, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.14976529606068611, "alloc_milliseconds": 0.10089448999991646, "n": 8, "seed": 37, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.009946655795631754, "alloc_milliseconds": 6.840278424999861, "n": 8, "seed": 34, "method": "certificate"}
+{"infeasible_fraction": 0.51, "fallback_fraction": 0.0, "min_h": -0.019177395752529858, "alloc_milliseconds": 0.047093150000563355, "n": 8, "seed": 38, "method": "uniform"}
+{"infeasible_fraction": 0.555, "fallback_fraction": 0.0, "min_h": -0.033734518269411484, "alloc_milliseconds": 0.02017536000032294, "n": 8, "seed": 38, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0026929765920546966, "alloc_milliseconds": 6.631025555000463, "n": 8, "seed": 35, "method": "certificate"}
+{"infeasible_fraction": 0.715, "fallback_fraction": 0.0, "min_h": -0.0445222200021394, "alloc_milliseconds": 0.0071342050003408986, "n": 8, "seed": 39, "method": "uniform"}
+{"infeasible_fraction": 0.76, "fallback_fraction": 0.0, "min_h": -0.042662020613003726, "alloc_milliseconds": 0.06613925499820539, "n": 8, "seed": 39, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0009511525863873938, "alloc_milliseconds": 6.625756749998573, "n": 8, "seed": 36, "method": "certificate"}
+{"infeasible_fraction": 0.605, "fallback_fraction": 0.0, "min_h": -0.031670821773247204, "alloc_milliseconds": 0.006975560000483938, "n": 10, "seed": 24, "method": "uniform"}
+{"infeasible_fraction": 0.18, "fallback_fraction": 0.0, "min_h": 0.08624102845087067, "alloc_milliseconds": 7.537545055001544, "n": 8, "seed": 37, "method": "certificate"}
+{"infeasible_fraction": 0.575, "fallback_fraction": 0.0, "min_h": -0.012315248457716366, "alloc_milliseconds": 0.03162468500107707, "n": 10, "seed": 24, "method": "capability"}
+{"infeasible_fraction": 0.065, "fallback_fraction": 0.0, "min_h": -0.011515980738681264, "alloc_milliseconds": 6.165158069998569, "n": 8, "seed": 38, "method": "certificate"}
+{"infeasible_fraction": 0.595, "fallback_fraction": 0.0, "min_h": -0.0955762427768665, "alloc_milliseconds": 0.08729193499917187, "n": 10, "seed": 25, "method": "uniform"}
+{"infeasible_fraction": 0.625, "fallback_fraction": 0.0, "min_h": -0.06335331783622078, "alloc_milliseconds": 0.03189679499939757, "n": 10, "seed": 25, "method": "capability"}
+{"infeasible_fraction": 0.79, "fallback_fraction": 0.0, "min_h": -0.11606657221330113, "alloc_milliseconds": 0.0071043000033910175, "n": 10, "seed": 26, "method": "uniform"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 4.1439874805204724e-05, "alloc_milliseconds": 6.731977659999018, "n": 8, "seed": 39, "method": "certificate"}
+{"infeasible_fraction": 0.8, "fallback_fraction": 0.0, "min_h": -0.16061480696883068, "alloc_milliseconds": 0.11184316999759858, "n": 10, "seed": 26, "method": "capability"}
+{"infeasible_fraction": 0.565, "fallback_fraction": 0.0, "min_h": -0.0325457894061531, "alloc_milliseconds": 0.04738575500141451, "n": 10, "seed": 27, "method": "uniform"}
+{"infeasible_fraction": 0.595, "fallback_fraction": 0.0, "min_h": -0.03333091926047815, "alloc_milliseconds": 0.07013439000047583, "n": 10, "seed": 27, "method": "capability"}
+{"infeasible_fraction": 0.045, "fallback_fraction": 0.0, "min_h": 0.021432414795834798, "alloc_milliseconds": 8.252274745003376, "n": 10, "seed": 24, "method": "certificate"}
+{"infeasible_fraction": 0.775, "fallback_fraction": 0.0, "min_h": -0.04371166658537923, "alloc_milliseconds": 0.007246340000222062, "n": 10, "seed": 28, "method": "uniform"}
+{"infeasible_fraction": 0.815, "fallback_fraction": 0.0, "min_h": -0.07591080838101288, "alloc_milliseconds": 0.028394950001597863, "n": 10, "seed": 28, "method": "capability"}
+{"infeasible_fraction": 0.08, "fallback_fraction": 0.0, "min_h": 0.013292327059933162, "alloc_milliseconds": 8.026854019998666, "n": 10, "seed": 25, "method": "certificate"}
+{"infeasible_fraction": 0.44, "fallback_fraction": 0.0, "min_h": -0.0035758940211050305, "alloc_milliseconds": 0.007385785000053602, "n": 10, "seed": 29, "method": "uniform"}
+{"infeasible_fraction": 0.22, "fallback_fraction": 0.0, "min_h": -0.0058138728318503086, "alloc_milliseconds": 0.06945322499888107, "n": 10, "seed": 29, "method": "capability"}
+{"infeasible_fraction": 0.385, "fallback_fraction": 0.0, "min_h": 0.0008489721419021046, "alloc_milliseconds": 7.329522755003097, "n": 10, "seed": 26, "method": "certificate"}
+{"infeasible_fraction": 0.7, "fallback_fraction": 0.0, "min_h": -0.16233785576071147, "alloc_milliseconds": 0.04740826499698869, "n": 10, "seed": 30, "method": "uniform"}
+{"infeasible_fraction": 0.68, "fallback_fraction": 0.0, "min_h": -0.052642336223956476, "alloc_milliseconds": 0.1541886449999197, "n": 10, "seed": 30, "method": "capability"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.004884739837818508, "alloc_milliseconds": 7.720375729996647, "n": 10, "seed": 27, "method": "certificate"}
+{"infeasible_fraction": 0.655, "fallback_fraction": 0.0, "min_h": -0.04113588931517681, "alloc_milliseconds": 0.007281680001938184, "n": 10, "seed": 31, "method": "uniform"}
+{"infeasible_fraction": 0.4, "fallback_fraction": 0.0, "min_h": -0.08402066083002196, "alloc_milliseconds": 0.029374305001965695, "n": 10, "seed": 31, "method": "capability"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.007281078548681541, "alloc_milliseconds": 7.464930545000925, "n": 10, "seed": 28, "method": "certificate"}
+{"infeasible_fraction": 0.14, "fallback_fraction": 0.0, "min_h": 0.009111513392125958, "alloc_milliseconds": 0.00689627000042492, "n": 10, "seed": 32, "method": "uniform"}
+{"infeasible_fraction": 0.285, "fallback_fraction": 0.0, "min_h": -0.005780791160923282, "alloc_milliseconds": 0.10719866500267017, "n": 10, "seed": 32, "method": "capability"}
+{"infeasible_fraction": 0.06, "fallback_fraction": 0.0, "min_h": -0.004746566232868732, "alloc_milliseconds": 7.845033109999804, "n": 10, "seed": 29, "method": "certificate"}
+{"infeasible_fraction": 0.365, "fallback_fraction": 0.0, "min_h": -0.01137090009019881, "alloc_milliseconds": 0.007631834999415332, "n": 10, "seed": 33, "method": "uniform"}
+{"infeasible_fraction": 0.25, "fallback_fraction": 0.0, "min_h": -0.002807095898202827, "alloc_milliseconds": 0.06707027499999185, "n": 10, "seed": 33, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.003503089492663203, "alloc_milliseconds": 7.854826114999582, "n": 10, "seed": 30, "method": "certificate"}
+{"infeasible_fraction": 0.575, "fallback_fraction": 0.0, "min_h": -0.06984276855871324, "alloc_milliseconds": 0.007082274995582338, "n": 10, "seed": 34, "method": "uniform"}
+{"infeasible_fraction": 0.525, "fallback_fraction": 0.0, "min_h": -0.056164956003326105, "alloc_milliseconds": 0.10570620000237341, "n": 10, "seed": 34, "method": "capability"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.027749702888726968, "alloc_milliseconds": 7.334397199999785, "n": 10, "seed": 31, "method": "certificate"}
+{"infeasible_fraction": 0.4, "fallback_fraction": 0.0, "min_h": -0.01696266119640466, "alloc_milliseconds": 0.006984340001849887, "n": 10, "seed": 35, "method": "uniform"}
+{"infeasible_fraction": 0.405, "fallback_fraction": 0.0, "min_h": -0.048531219758006894, "alloc_milliseconds": 0.1078699349989165, "n": 10, "seed": 35, "method": "capability"}
+{"infeasible_fraction": 0.03, "fallback_fraction": 0.0, "min_h": 0.006121675445694863, "alloc_milliseconds": 7.524911139996675, "n": 10, "seed": 32, "method": "certificate"}
+{"infeasible_fraction": 0.735, "fallback_fraction": 0.0, "min_h": -0.22511565418655496, "alloc_milliseconds": 0.007200554989594821, "n": 10, "seed": 36, "method": "uniform"}
+{"infeasible_fraction": 0.71, "fallback_fraction": 0.0, "min_h": -0.20883792984659588, "alloc_milliseconds": 0.15576830500037886, "n": 10, "seed": 36, "method": "capability"}
+{"infeasible_fraction": 0.04, "fallback_fraction": 0.0, "min_h": 0.00908244035285738, "alloc_milliseconds": 7.238300394994894, "n": 10, "seed": 33, "method": "certificate"}
+{"infeasible_fraction": 0.56, "fallback_fraction": 0.0, "min_h": 0.0009835686475791472, "alloc_milliseconds": 0.007470304995536026, "n": 10, "seed": 37, "method": "uniform"}
+{"infeasible_fraction": 0.6, "fallback_fraction": 0.0, "min_h": -0.0027791774617782483, "alloc_milliseconds": 0.15070170000285543, "n": 10, "seed": 37, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.001006345206973791, "alloc_milliseconds": 7.04877743499992, "n": 10, "seed": 34, "method": "certificate"}
+{"infeasible_fraction": 0.455, "fallback_fraction": 0.0, "min_h": -0.012276880366467069, "alloc_milliseconds": 0.007288369994853383, "n": 10, "seed": 38, "method": "uniform"}
+{"infeasible_fraction": 0.6, "fallback_fraction": 0.0, "min_h": -0.008988169241852195, "alloc_milliseconds": 0.029171329998689544, "n": 10, "seed": 38, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.007673871552765221, "alloc_milliseconds": 7.446702679997657, "n": 10, "seed": 35, "method": "certificate"}
+{"infeasible_fraction": 0.65, "fallback_fraction": 0.0, "min_h": -0.05302415519385145, "alloc_milliseconds": 0.007058264998249797, "n": 10, "seed": 39, "method": "uniform"}
+{"infeasible_fraction": 0.63, "fallback_fraction": 0.0, "min_h": -0.065353997837511, "alloc_milliseconds": 0.21049747500057947, "n": 10, "seed": 39, "method": "capability"}
+{"infeasible_fraction": 0.095, "fallback_fraction": 0.0, "min_h": 9.572090485193696e-05, "alloc_milliseconds": 7.539600065001082, "n": 10, "seed": 36, "method": "certificate"}
+{"infeasible_fraction": 0.685, "fallback_fraction": 0.0, "min_h": -0.014380852771107622, "alloc_milliseconds": 0.007359815000427261, "n": 12, "seed": 13, "method": "uniform"}
+{"infeasible_fraction": 0.56, "fallback_fraction": 0.0, "min_h": -0.05871860889792052, "alloc_milliseconds": 0.031215620000466515, "n": 12, "seed": 13, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.0015876048361560535, "alloc_milliseconds": 7.7844530500033216, "n": 10, "seed": 37, "method": "certificate"}
+{"infeasible_fraction": 0.745, "fallback_fraction": 0.0, "min_h": -0.07047818514027698, "alloc_milliseconds": 0.047524765001298874, "n": 12, "seed": 14, "method": "uniform"}
+{"infeasible_fraction": 0.045, "fallback_fraction": 0.0, "min_h": 0.012869237722555826, "alloc_milliseconds": 7.426474920006285, "n": 10, "seed": 38, "method": "certificate"}
+{"infeasible_fraction": 0.695, "fallback_fraction": 0.0, "min_h": -0.049249374207865904, "alloc_milliseconds": 0.15580282499854547, "n": 12, "seed": 14, "method": "capability"}
+{"infeasible_fraction": 0.05, "fallback_fraction": 0.0, "min_h": 6.689775770024609e-05, "alloc_milliseconds": 7.8131064650051485, "n": 10, "seed": 39, "method": "certificate"}
+{"infeasible_fraction": 0.635, "fallback_fraction": 0.0, "min_h": -0.04620484068508607, "alloc_milliseconds": 0.04755430999352939, "n": 12, "seed": 15, "method": "uniform"}
+{"infeasible_fraction": 0.7, "fallback_fraction": 0.0, "min_h": -0.055058054479216856, "alloc_milliseconds": 0.15534024000544377, "n": 12, "seed": 15, "method": "capability"}
+{"infeasible_fraction": 0.87, "fallback_fraction": 0.0, "min_h": -0.030661738999554877, "alloc_milliseconds": 0.0073428000007425, "n": 12, "seed": 16, "method": "uniform"}
+{"infeasible_fraction": 0.86, "fallback_fraction": 0.0, "min_h": -0.034597908595612126, "alloc_milliseconds": 0.07574466500614108, "n": 12, "seed": 16, "method": "capability"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.006257893850811602, "alloc_milliseconds": 8.35656629999221, "n": 12, "seed": 22, "method": "certificate"}
+{"infeasible_fraction": 0.825, "fallback_fraction": 0.0, "min_h": -0.0738933646400487, "alloc_milliseconds": 0.007364800009099781, "n": 12, "seed": 17, "method": "uniform"}
+{"infeasible_fraction": 0.83, "fallback_fraction": 0.0, "min_h": -0.022046963347797044, "alloc_milliseconds": 0.07351073000222641, "n": 12, "seed": 17, "method": "capability"}
+{"infeasible_fraction": 0.015, "fallback_fraction": 0.0, "min_h": 0.09107968974277797, "alloc_milliseconds": 7.789852595000184, "n": 12, "seed": 23, "method": "certificate"}
+{"infeasible_fraction": 0.38, "fallback_fraction": 0.0, "min_h": -0.01985075270575687, "alloc_milliseconds": 0.047948905011026, "n": 12, "seed": 18, "method": "uniform"}
+{"infeasible_fraction": 0.71, "fallback_fraction": 0.0, "min_h": -0.021911013549601677, "alloc_milliseconds": 0.03483749499764599, "n": 12, "seed": 18, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.0001391602430659833, "alloc_milliseconds": 8.06653527000094, "n": 12, "seed": 24, "method": "certificate"}
+{"infeasible_fraction": 0.695, "fallback_fraction": 0.0, "min_h": -0.03261555744239891, "alloc_milliseconds": 0.047811310008682995, "n": 12, "seed": 19, "method": "uniform"}
+{"infeasible_fraction": 0.68, "fallback_fraction": 0.0, "min_h": -0.009070919453168791, "alloc_milliseconds": 0.15112379999891346, "n": 12, "seed": 19, "method": "capability"}
+{"infeasible_fraction": 0.0, "fallback_fraction": 0.0, "min_h": 0.06261456316653385, "alloc_milliseconds": 8.105192264995367, "n": 12, "seed": 25, "method": "certificate"}
+{"infeasible_fraction": 0.81, "fallback_fraction": 0.0, "min_h": -0.16345221330343448, "alloc_milliseconds": 0.007059595004648145, "n": 12, "seed": 20, "method": "uniform"}
+{"infeasible_fraction": 0.855, "fallback_fraction": 0.0, "min_h": -0.1474127365179078, "alloc_milliseconds": 0.11949718999858305, "n": 12, "seed": 20, "method": "capability"}
+{"infeasible_fraction": 0.54, "fallback_fraction": 0.0, "min_h": -0.058622501508520886, "alloc_milliseconds": 0.0075487900005555275, "n": 12, "seed": 21, "method": "uniform"}
+{"infeasible_fraction": 0.505, "fallback_fraction": 0.0, "min_h": -0.13133616335280648, "alloc_milliseconds": 0.09809638499632456, "n": 12, "seed": 21, "method": "capability"}
+{"infeasible_fraction": 0.44, "fallback_fraction": 0.0, "min_h": -0.03475653053554972, "alloc_milliseconds": 7.75228135000134, "n": 12, "seed": 26, "method": "certificate"}
+{"infeasible_fraction": 0.83, "fallback_fraction": 0.0, "min_h": -0.05283881773976146, "alloc_milliseconds": 0.04806084499705321, "n": 12, "seed": 22, "method": "uniform"}
+{"infeasible_fraction": 0.825, "fallback_fraction": 0.0, "min_h": -0.04811753896350446, "alloc_milliseconds": 0.08105730501029029, "n": 12, "seed": 22, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.00044868051405844156, "alloc_milliseconds": 7.930876970006011, "n": 12, "seed": 27, "method": "certificate"}
+{"infeasible_fraction": 0.8, "fallback_fraction": 0.0, "min_h": -0.03648137807973506, "alloc_milliseconds": 0.007845070002758803, "n": 12, "seed": 23, "method": "uniform"}
+{"infeasible_fraction": 0.82, "fallback_fraction": 0.0, "min_h": -0.05268989445047084, "alloc_milliseconds": 0.037918794998859084, "n": 12, "seed": 23, "method": "capability"}
+{"infeasible_fraction": 0.025, "fallback_fraction": 0.0, "min_h": 0.00043238741371898204, "alloc_milliseconds": 8.08366924498955, "n": 12, "seed": 28, "method": "certificate"}
+{"infeasible_fraction": 0.825, "fallback_fraction": 0.0, "min_h": -0.0387615271764416, "alloc_milliseconds": 0.007774814988579237, "n": 12, "seed": 24, "method": "uniform"}
+{"infeasible_fraction": 0.615, "fallback_fraction": 0.0, "min_h": -0.006724645713129307, "alloc_milliseconds": 0.15838653000287195, "n": 12, "seed": 24, "method": "capability"}
+{"infeasible_fraction": 0.02, "fallback_fraction": 0.0, "min_h": 0.006182272729631844, "alloc_milliseconds": 8.258635934996619, "n": 12, "seed": 29, "method": "certificate"}
+{"infeasible_fraction": 0.375, "fallback_fraction": 0.0, "min_h": -0.010520185232473, "alloc_milliseconds": 0.007504484992750804, "n": 12, "seed": 25, "method": "uniform"}
+{"infeasible_fraction": 0.28, "fallback_fraction": 0.0, "min_h": -0.016487096791542644, "alloc_milliseconds": 0.12169178499789268, "n": 12, "seed": 25, "method": "capability"}
+{"infeasible_fraction": 0.145, "fallback_fraction": 0.0, "min_h": 0.00030326485930426417, "alloc_milliseconds": 8.03390395000406, "n": 12, "seed": 30, "method": "certificate"}
+{"infeasible_fraction": 0.505, "fallback_fraction": 0.0, "min_h": -0.029426846876, "alloc_milliseconds": 0.007949260002533265, "n": 12, "seed": 26, "method": "uniform"}
+{"infeasible_fraction": 0.36, "fallback_fraction": 0.0, "min_h": -0.040640510814800246, "alloc_milliseconds": 0.11221359999808556, "n": 12, "seed": 26, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": -9.440507999791681e-05, "alloc_milliseconds": 8.02951414500285, "n": 12, "seed": 31, "method": "certificate"}
+{"infeasible_fraction": 0.455, "fallback_fraction": 0.0, "min_h": -0.002274767167718794, "alloc_milliseconds": 0.0078086400037591375, "n": 12, "seed": 27, "method": "uniform"}
+{"infeasible_fraction": 0.395, "fallback_fraction": 0.0, "min_h": -0.0009248091683600745, "alloc_milliseconds": 0.07363055000610075, "n": 12, "seed": 27, "method": "capability"}
+{"infeasible_fraction": 0.03, "fallback_fraction": 0.0, "min_h": 7.932834379476006e-05, "alloc_milliseconds": 8.2110077950108, "n": 12, "seed": 32, "method": "certificate"}
+{"infeasible_fraction": 0.75, "fallback_fraction": 0.0, "min_h": -0.04157667215209998, "alloc_milliseconds": 0.047678139999334235, "n": 12, "seed": 28, "method": "uniform"}
+{"infeasible_fraction": 0.71, "fallback_fraction": 0.0, "min_h": -0.007629016282041712, "alloc_milliseconds": 0.03859154999418024, "n": 12, "seed": 28, "method": "capability"}
+{"infeasible_fraction": 0.13, "fallback_fraction": 0.0, "min_h": 0.0007453024096966687, "alloc_milliseconds": 8.249272784997856, "n": 12, "seed": 33, "method": "certificate"}
+{"infeasible_fraction": 0.435, "fallback_fraction": 0.0, "min_h": 7.65819469938922e-05, "alloc_milliseconds": 0.0076846799993290915, "n": 12, "seed": 29, "method": "uniform"}
+{"infeasible_fraction": 0.26, "fallback_fraction": 0.0, "min_h": 7.713191525904328e-05, "alloc_milliseconds": 0.15605146499410694, "n": 12, "seed": 29, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.00520038204812151, "alloc_milliseconds": 8.065400905006754, "n": 12, "seed": 34, "method": "certificate"}
+{"infeasible_fraction": 0.34, "fallback_fraction": 0.0, "min_h": 4.804458033363934e-05, "alloc_milliseconds": 0.008005614997728117, "n": 12, "seed": 30, "method": "uniform"}
+{"infeasible_fraction": 0.51, "fallback_fraction": 0.0, "min_h": 4.803320271451472e-05, "alloc_milliseconds": 0.0788828650013329, "n": 12, "seed": 30, "method": "capability"}
+{"infeasible_fraction": 0.82, "fallback_fraction": 0.0, "min_h": -0.06382809280393037, "alloc_milliseconds": 0.008091494999851179, "n": 12, "seed": 31, "method": "uniform"}
+{"infeasible_fraction": 0.845, "fallback_fraction": 0.0, "min_h": -0.011313346116791467, "alloc_milliseconds": 0.1419274700000095, "n": 12, "seed": 31, "method": "capability"}
+{"infeasible_fraction": 0.59, "fallback_fraction": 0.0, "min_h": -0.03299972043407773, "alloc_milliseconds": 8.678921569999837, "n": 12, "seed": 35, "method": "certificate"}
+{"infeasible_fraction": 0.655, "fallback_fraction": 0.0, "min_h": -0.05619393728830169, "alloc_milliseconds": 0.008409795000225984, "n": 12, "seed": 32, "method": "uniform"}
+{"infeasible_fraction": 0.83, "fallback_fraction": 0.0, "min_h": -0.04484362841702094, "alloc_milliseconds": 0.15065143999979824, "n": 12, "seed": 32, "method": "capability"}
+{"infeasible_fraction": 0.14, "fallback_fraction": 0.0, "min_h": 0.0007732637462303793, "alloc_milliseconds": 7.9025114799997525, "n": 12, "seed": 36, "method": "certificate"}
+{"infeasible_fraction": 0.755, "fallback_fraction": 0.0, "min_h": -0.19188143758140522, "alloc_milliseconds": 0.007168750000516866, "n": 12, "seed": 33, "method": "uniform"}
+{"infeasible_fraction": 0.775, "fallback_fraction": 0.0, "min_h": -0.16137625244562367, "alloc_milliseconds": 0.1906310499997943, "n": 12, "seed": 33, "method": "capability"}
+{"infeasible_fraction": 0.035, "fallback_fraction": 0.0, "min_h": 0.009454771233615766, "alloc_milliseconds": 7.976122935000022, "n": 12, "seed": 37, "method": "certificate"}
+{"infeasible_fraction": 0.845, "fallback_fraction": 0.0, "min_h": -0.22990768795739908, "alloc_milliseconds": 0.0069554750010070165, "n": 12, "seed": 34, "method": "uniform"}
+{"infeasible_fraction": 0.85, "fallback_fraction": 0.0, "min_h": -0.1347802934490593, "alloc_milliseconds": 0.15558291999923313, "n": 12, "seed": 34, "method": "capability"}
+{"infeasible_fraction": 0.01, "fallback_fraction": 0.0, "min_h": 0.007546158551071547, "alloc_milliseconds": 7.09442334999963, "n": 12, "seed": 38, "method": "certificate"}
+{"infeasible_fraction": 0.75, "fallback_fraction": 0.0, "min_h": -0.17947326162506047, "alloc_milliseconds": 0.007442619999835642, "n": 12, "seed": 35, "method": "uniform"}
+{"infeasible_fraction": 0.815, "fallback_fraction": 0.0, "min_h": -0.2154317597101617, "alloc_milliseconds": 0.11191407499978823, "n": 12, "seed": 35, "method": "capability"}
+{"infeasible_fraction": 0.005, "fallback_fraction": 0.0, "min_h": 0.005704218357490964, "alloc_milliseconds": 7.095225020000839, "n": 12, "seed": 39, "method": "certificate"}
+{"infeasible_fraction": 0.8, "fallback_fraction": 0.0, "min_h": -0.038231118910162176, "alloc_milliseconds": 0.0473912749978922, "n": 12, "seed": 36, "method": "uniform"}
+{"infeasible_fraction": 0.86, "fallback_fraction": 0.0, "min_h": -0.014428212076830094, "alloc_milliseconds": 0.0919301400007555, "n": 12, "seed": 36, "method": "capability"}
+{"infeasible_fraction": 0.34, "fallback_fraction": 0.0, "min_h": -0.002844494665697306, "alloc_milliseconds": 0.00735232499863514, "n": 12, "seed": 37, "method": "uniform"}
+{"infeasible_fraction": 0.695, "fallback_fraction": 0.0, "min_h": -0.020072793799224775, "alloc_milliseconds": 0.09018345500180658, "n": 12, "seed": 37, "method": "capability"}
+{"infeasible_fraction": 0.735, "fallback_fraction": 0.0, "min_h": -0.16731015571274827, "alloc_milliseconds": 0.04784217499860688, "n": 12, "seed": 38, "method": "uniform"}
+{"infeasible_fraction": 0.725, "fallback_fraction": 0.0, "min_h": -0.15330636894665273, "alloc_milliseconds": 0.028353315001368173, "n": 12, "seed": 38, "method": "capability"}
+{"infeasible_fraction": 0.725, "fallback_fraction": 0.0, "min_h": -0.2385287819447894, "alloc_milliseconds": 0.007451044998845191, "n": 12, "seed": 39, "method": "uniform"}
+{"infeasible_fraction": 0.75, "fallback_fraction": 0.0, "min_h": -0.11106386995623535, "alloc_milliseconds": 0.07661853500025018, "n": 12, "seed": 39, "method": "capability"}

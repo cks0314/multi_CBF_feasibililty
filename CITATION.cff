@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the paper below.
+title: >-
+  When the Safety Filter Fails: Exact Diagnosis of Infeasibility in Multirobot
+  Control Barrier Functions
+authors:
+  - family-names: Sah
+    given-names: Chandan Kumar
+    affiliation: Indian Institute of Science
+    email: chandanks@iisc.ac.in
+  - family-names: Keshavan
+    given-names: Jishnu
+    affiliation: Indian Institute of Science
+    email: kjishnu@iisc.ac.in
+version: 1.0.0
+date-released: "2026-09-11"
+license: MIT
+repository-code: https://github.com/USER/REPO
+preferred-citation:
+  type: conference-paper
+  title: >-
+    When the Safety Filter Fails: Exact Diagnosis of Infeasibility in Multirobot
+    Control Barrier Functions
+  authors:
+    - family-names: Sah
+      given-names: Chandan Kumar
+    - family-names: Keshavan
+      given-names: Jishnu
+  collection-title: >-
+    IEEE International Conference on Robotics and Automation (ICRA)
+  year: 2027

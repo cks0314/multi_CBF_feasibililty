@@ -253,36 +253,50 @@ python media/make_comparison_video.py # assets/allocation.mp4
 
 ```text
 .
-├── src/mrcbf/                       # the library, about 500 lines
-│   ├── model.py                     # agent dynamics and the barrier chain
-│   ├── certificate.py               # the reserve M(x), its multiplier, the three allocations
-│   └── filters.py                   # local and joint safety filters, closed loop rollout
-│
-├── tests/                           # pytest suite, run on every push
-│   ├── test_certificate.py          # including a check against an independent solver
-│   └── test_allocation.py
-│
-├── experiments/                     # scripts to reproduce the paper
-│   ├── run_allocation.py            # the closed loop comparison
-│   ├── validate_certificate.py      # certificate against an independent solver
-│   └── summarise.py                 # raw runs into the results table
-│
-├── figures/                         # figure generation
+├── .github/                              # continuous integration
+│   └── workflows/
+│       └── tests.yml
+├── assets/                               # figures and videos used in this README
+│   ├── allocation.mp4
+│   ├── fig10_allocmech_comb.png
+│   ├── fig8_attribution_illust2.png
+│   ├── fig9_allocation_illust.png
+│   ├── fig_motivation.png
+│   ├── hero.gif
+│   └── hero.mp4
+├── data/                                 # the 1280 runs behind the results table
+│   ├── results_heterogeneous.jsonl
+│   └── results_homogeneous.jsonl
+├── docs/                                 # served by GitHub Pages
+│   └── demo.html                         # interactive demo, no dependencies
+├── experiments/                          # scripts to reproduce the paper
+│   ├── run_allocation.py                 # the closed loop comparison
+│   ├── summarise.py                      # raw runs into the results table
+│   └── validate_certificate.py           # certificate against an independent solver
+├── figures/                              # figure generation
 │   ├── fig_allocation.py
 │   ├── fig_attribution.py
 │   ├── fig_mechanism.py
 │   ├── fig_timelapse.py
-│   └── style.py                     # shared publication style
-│
-├── media/                           # videos for the project page
-│   ├── make_hero.py
-│   └── make_comparison_video.py
-│
-├── docs/demo.html                   # interactive demo, also served by GitHub Pages
-├── data/                            # the 1280 runs behind the results table
-├── assets/                          # figures and videos used in this README
-├── pyproject.toml
-└── .github/workflows/tests.yml
+│   └── style.py                          # shared publication style
+├── media/                                # videos for the project page
+│   ├── make_comparison_video.py
+│   └── make_hero.py
+├── src/                                  # the installable package
+│   └── mrcbf/                            # the library, about 500 lines
+│       ├── __init__.py                   # public API
+│       ├── certificate.py                # the reserve M(x), its multiplier, the three allocations
+│       ├── filters.py                    # local and joint safety filters, closed loop rollout
+│       └── model.py                      # agent dynamics and the barrier chain
+├── tests/                                # pytest suite, run on every push
+│   ├── test_allocation.py                # includes the never worse than uniform guarantee
+│   └── test_certificate.py               # includes a check against an independent solver
+├── .gitignore
+├── CITATION.cff                          # GitHub renders a cite button from this
+├── LICENSE
+├── README.md
+├── pyproject.toml                        # packaging, dependencies, pytest settings
+└── requirements.txt                      # pinned alternative to the pyproject extras
 ```
 
 All figure PDFs embed editable TrueType fonts (`pdf.fonttype = 42`) and open as **editable vector art** in Illustrator.
