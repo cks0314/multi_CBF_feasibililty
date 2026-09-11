@@ -1,0 +1,308 @@
+<div align='center'>
+<h2 align="center"> When the Safety Filter Fails: Exact Diagnosis of Infeasibility in Multirobot Control Barrier Functions</h2>
+
+**Stop guessing why the QP said no.**
+
+<a href="mailto:chandanks@iisc.ac.in">Chandan Kumar Sah</a>,
+<a href="mailto:kjishnu@iisc.ac.in">Jishnu Keshavan</a>
+
+<h3 align="center"> DACAS Lab, Indian Institute of Science, Bangalore</h3>
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv)](...)
+[![Project Page](https://img.shields.io/badge/Project-Website-blue)](...)
+[![Demo](https://img.shields.io/badge/Demo-Interactive-orange)](https://USER.github.io/REPO/demo.html)
+[![Tests](https://github.com/USER/REPO/actions/workflows/tests.yml/badge.svg)](https://github.com/USER/REPO/actions/workflows/tests.yml)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+ <div align="center"></div>
+
+<p align="center">
+  <video src="https://github.com/USER/REPO/raw/main/assets/hero.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="assets/hero.gif" width="100%" alt="Sixteen robots, every edge a shared safety constraint coloured by who is responsible for it"/>
+</p>
+
+<p align="center">
+  <em>Sixteen underactuated robots. Every edge is a shared safety constraint,
+  coloured by <b>who is responsible for it</b>. One linear program chooses the
+  division at every control step, and no local program is ever infeasible.</em>
+</p>
+</div>
+
+## 📃 Abstract
+
+Pointwise infeasibility of multirobot control barrier function safety filters offers little guidance on its cause. We derive an **exact conic certificate** whose sign decides feasibility and whose value separates the problem into a *demand* term, set by the barrier encoding, and a *supply* term, set by the geometry of the input sets. The supply is invariant to the class K functions, so retuning gains cannot create capability. Structurally degenerate states exist at which no increase in actuation restores feasibility. The multiplier is sparse, naming the few interactions and agents responsible. Because the certificate prices any division of a shared constraint exactly, the optimal division solves a **single linear program**, computed centrally and executed locally. Across 320 paired closed loop runs it reduces infeasible steps from about 50% to **6.0%**, matching a centralized filter, and cuts runs containing a safety violation from 118 of 160 to **23 of 160**, at 2.3 ms per step.
+
+## News :newspaper:
+* **September 2026**: Paper submitted to ICRA 2027.
+* **September 2026**: Code and interactive demo released.
+
+<!-- TABLE OF CONTENTS -->
+<details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#motivation">Motivation</a></li>
+    <li><a href="#key-contributions">Key contributions</a></li>
+    <li><a href="#method-overview">Method overview</a></li>
+    <li><a href="#results">Results</a></li>
+    <li><a href="#interactive-demo">Interactive demo</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#reproducing-the-paper">Reproducing the paper</a></li>
+    <li><a href="#repository-structure">Repository structure</a></li>
+    <li><a href="#citation">Citation</a></li>
+  </ol>
+</details>
+
+## Motivation
+
+A multirobot safety filter enforces one barrier constraint per pair of robots, and every robot has bounded actuation. When enough of those constraints compete for the same limited thrust, the quadratic program has no solution and the solver returns a single word:
+
+```
+QP status: INFEASIBLE
+```
+
+That is the entire diagnostic. It does not say which of the many enforced interactions caused the conflict, which robot would benefit from a stronger actuator, whether retuning the class K gains would have helped at all, or how the shared load should have been divided in the first place. The designer is left to guess, and the usual guesses are expensive: add actuation, retune gains, or drop constraints.
+
+<p align="center">
+  <img src="assets/fig_motivation.png" width="70%" alt="Why a flag is not enough"/>
+</p>
+
+We show that a single conic program answers all four questions at once. Its optimal value `M(x)` decides feasibility exactly, and its optimal multiplier is sparse enough to point at the culprit.
+
+## Key contributions
+
+1. An **exact feasibility certificate** whose sign decides whether any admissible input satisfies every constraint, and whose value splits into a *demand* term and a *supply* term.
+2. **Encoding invariance**: the supply is independent of every class K function, so retuning gains cannot create capability. Exactly one narrow exception exists.
+3. **Structural degeneracy**: states at which the constraint normals annihilate every robot's thrust axis, so scaling actuation by any factor leaves the certificate unchanged.
+4. **Sparse attribution**: the multiplier names a handful of interactions and robots regardless of fleet size, and is right 94% of the time.
+5. **Certificate optimal allocation**: the best division of every shared constraint is a **single linear program**, solved centrally and executed locally.
+
+## Method overview
+
+Every pairwise barrier of relative degree two puts the fleet in the affine form
+
+```
+b(x) + G(x) u  >=  0
+```
+
+where row `k` of `G` holds the input coefficients of constraint `k` and `b` collects the drift and the class K terms. The certificate is
+
+```
+M(x) = min over the simplex of   λᵀ b  +  Σᵢ σ_{Uᵢ}( νᵢ(λ) )
+                                 └─demand─┘  └────supply────┘
+```
+
+with `νᵢ(λ)` the aggregate normal that robot `i` carries and `σ` the support function of its input set. `M(x) >= 0` exactly when the joint program is feasible.
+
+Two facts follow that matter in practice:
+
+| you could change | does it move the supply? | why |
+|---|---|---|
+| the class K functions | **no** | `G` is independent of them |
+| robot `i`'s actuation | only if `∂M/∂ρᵢ > 0` | it is *exactly* zero for most robots |
+| the **division** of each constraint | **this is the lever** | and the best one is an LP |
+
+Splitting constraint `k` means giving a share `θ_{k,i}` of `b_k` to each endpoint. Because the shares sum to one, **safety holds for any division**, so `θ` can be optimised freely. Maximising the worst local margin turns out to be a single linear program.
+
+<p align="center">
+  <img src="assets/fig10_allocmech_comb.png" width="72%" alt="What the allocation changes and what it cannot"/>
+</p>
+
+<p align="center">
+  <em><b>Left:</b> the local margins move. Three robots have no admissible input under the uniform
+  split, none under ours. <b>Right:</b> the leverage <code>∂M/∂ρᵢ</code> is <b>identical under all
+  three allocations</b>. The division changes neither the fleet's capability nor which robot holds
+  it, only whether the local programs can use it.</em>
+</p>
+
+## Results
+
+### 1. The same task, three ways
+
+<p align="center">
+  <video src="https://github.com/USER/REPO/raw/main/assets/allocation.mp4" width="100%" controls muted loop></video>
+</p>
+
+Identical start, goals and actuation bounds; only the division differs. The uniform and capability weighted splits leave some local program infeasible on **45%** and **32%** of steps and both fleets stall. Ours: **0.3%**.
+
+### 2. Closed loop comparison
+
+320 paired runs, 40 random tasks at each of four fleet sizes, every method on exactly the same tasks.
+
+<p align="center">
+  <img src="assets/fig9_allocation_illust.png" width="100%"/>
+</p>
+
+| allocation | infeasible steps | unsafe runs | closest approach |
+|---|---|---|---|
+| centralized *(reference)* | 5.4% | 59/160 | +0.001 |
+| uniform split | 50.8% | 118/160 | −0.044 |
+| capability weighted | 49.6% | 123/160 | −0.038 |
+| **certificate optimal (ours)** | **6.0%** | **23/160** | **+0.017** |
+
+Splitting a constraint badly costs about **45 percentage points** of feasibility against a centralized filter. Choosing the split by the certificate recovers essentially all of it, and is the only decentralized method that also improves safety.
+
+### 3. Localising the conflict
+
+<p align="center">
+  <img src="assets/fig8_attribution_illust2.png" width="100%"/>
+</p>
+
+In a ten robot conflict with 24 enforced pairs the certificate blames a **single pair**, and only its two endpoints carry any leverage. Relaxing that pair restores feasibility in **94%** of 52 conflicts, against 4 to 6% for the closest pair, the smallest barrier value, the smallest ψ, or chance.
+
+## Interactive demo
+
+`docs/demo.html` is a single file with no dependencies. Open it in a browser and drag the robots, their velocity arrows and their body axes. It solves the **real programs**, not a recording: a two phase simplex for the certificate, the allocation linear program, and an exact one dimensional search for every local margin.
+
+Drag the fleet into a tight cluster under **uniform split** until robots turn red, then switch to **certificate optimal** and watch them turn green with nothing else changed.
+
+## Installation
+
+```bash
+git clone https://github.com/USER/REPO.git
+cd REPO
+pip install -e ".[figures]"          # add [dev] as well if you want to run the tests
+# ffmpeg is needed only for the scripts in media/
+```
+
+Python 3.9 or newer. Linear programs go to `scipy.optimize.linprog`; the safety filters go to CLARABEL through cvxpy. Installing in editable mode puts `mrcbf` on the path, so the scripts under `experiments/`, `figures/` and `media/` run from anywhere.
+
+Run the tests with:
+
+```bash
+pytest -q
+```
+
+### Sixty second check
+
+```python
+import numpy as np
+from mrcbf import (pairs, random_scenario, actuation_bounds, barrier_rows,
+                   reserve, margins_under, ALLOCATIONS)
+
+n, seed = 8, 0
+edges = pairs(n)
+q, v, heading, goal = random_scenario(n, seed)
+q = q * 0.55                                   # squeeze it into conflict
+u_bar = actuation_bounds(n, seed)
+
+G, b, active_mask = barrier_rows(q, v, heading, edges)
+active = list(np.where(active_mask)[0])
+
+M, lam, leverage = reserve(G[active], b[active], u_bar)
+print(f'M = {M:+.4f}')                         # negative means infeasible
+print('blamed constraints :', [edges[active[k]] for k in np.where(lam > 1e-7)[0]])
+print('worth upgrading    :', np.where(leverage > 1e-7)[0].tolist())
+
+for name, alloc in ALLOCATIONS.items():
+    out = alloc(G, b, edges, active, n, u_bar)
+    theta = out[0] if isinstance(out, tuple) else out
+    m = margins_under(G, b, edges, active, n, u_bar, theta)
+    print(f'{name:<12} worst local margin {np.nanmin(m):+.4f}')
+```
+
+```
+M = -0.1327
+blamed constraints : [(0, 1), (1, 5)]
+worth upgrading    : [0, 5]
+uniform      worst local margin -0.3543
+capability   worst local margin -0.3984
+certificate  worst local margin -0.2321
+```
+
+Six of the eight robots have **exactly zero** leverage. Upgrading any of them, by any factor, would not move the reserve at all.
+
+## Reproducing the paper
+
+**The closed loop comparison.** Four methods on identical tasks:
+
+```bash
+python experiments/run_allocation.py                # heterogeneous fleets
+python experiments/run_allocation.py --homogeneous  # identical fleets
+python experiments/summarise.py data/results_*.jsonl
+```
+
+A few hours on one core. The script checkpoints after every run and skips work already done, so stop and restart it freely. For several cores, give each process one method over the same file:
+
+```bash
+for m in centralized uniform capability certificate; do
+    python experiments/run_allocation.py --methods $m &
+done
+```
+
+The runs behind the table above are committed under `data/`, so `summarise.py` reproduces it without rerunning anything.
+
+**The certificate check.** Compares the sign of the reserve against a separate QP solver asked whether a feasible input exists:
+
+```bash
+python experiments/validate_certificate.py --trials 420
+```
+
+Expect complete agreement. One disagreement would be a counterexample to the main theorem.
+
+**Figures and videos.**
+
+```bash
+python figures/fig_allocation.py      # the closed loop comparison
+python figures/fig_mechanism.py       # what the allocation changes, and cannot
+python figures/fig_attribution.py     # localising a conflict
+python figures/fig_timelapse.py       # one run under three allocations
+python media/make_hero.py             # assets/hero.mp4
+python media/make_comparison_video.py # assets/allocation.mp4
+```
+
+## Repository structure
+
+```text
+.
+├── src/mrcbf/                       # the library, about 500 lines
+│   ├── model.py                     # agent dynamics and the barrier chain
+│   ├── certificate.py               # the reserve M(x), its multiplier, the three allocations
+│   └── filters.py                   # local and joint safety filters, closed loop rollout
+│
+├── tests/                           # pytest suite, run on every push
+│   ├── test_certificate.py          # including a check against an independent solver
+│   └── test_allocation.py
+│
+├── experiments/                     # scripts to reproduce the paper
+│   ├── run_allocation.py            # the closed loop comparison
+│   ├── validate_certificate.py      # certificate against an independent solver
+│   └── summarise.py                 # raw runs into the results table
+│
+├── figures/                         # figure generation
+│   ├── fig_allocation.py
+│   ├── fig_attribution.py
+│   ├── fig_mechanism.py
+│   ├── fig_timelapse.py
+│   └── style.py                     # shared publication style
+│
+├── media/                           # videos for the project page
+│   ├── make_hero.py
+│   └── make_comparison_video.py
+│
+├── docs/demo.html                   # interactive demo, also served by GitHub Pages
+├── data/                            # the 1280 runs behind the results table
+├── assets/                          # figures and videos used in this README
+├── pyproject.toml
+└── .github/workflows/tests.yml
+```
+
+All figure PDFs embed editable TrueType fonts (`pdf.fonttype = 42`) and open as **editable vector art** in Illustrator.
+
+### A note on reproducibility
+
+The filters are cvxpy problems compiled once and re-solved with new parameter values, which is where most of the speed comes from. A side effect is that the solver warm starts from the previous solution, so results depend very slightly on the order runs execute in. The effect is around a tenth of a percentage point in the pooled rates. Build a fresh `LocalFilter` per episode if you need bit identical runs and can afford the compile time.
+
+## Citation
+
+```bibtex
+@inproceedings{sah2027certificate,
+  title     = {When the Safety Filter Fails: Exact Diagnosis of Infeasibility
+               in Multirobot Control Barrier Functions},
+  author    = {Sah, Chandan Kumar and Keshavan, Jishnu},
+  booktitle = {IEEE Int. Conf. on Robotics and Automation (ICRA)},
+  year      = {2027}
+}
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).

@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mrcbf"
+version = "1.0.0"
+description = "Exact feasibility certification and optimal responsibility allocation for multirobot control barrier function safety filters"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Chandan Kumar Sah", email = "chandanks@iisc.ac.in" },
+    { name = "Jishnu Keshavan", email = "kjishnu@iisc.ac.in" },
+]
+keywords = [
+    "control barrier functions",
+    "multirobot systems",
+    "safety filter",
+    "feasibility",
+    "convex optimization",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering",
+]
+
+# The library itself needs only numerics and the two solvers.  Plotting and
+# video are deliberately optional so that a user who just wants the
+# certificate does not have to install matplotlib.
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "cvxpy>=1.4",
+    "clarabel>=0.6",
+]
+
+[project.optional-dependencies]
+figures = ["matplotlib>=3.7"]
+dev = ["pytest>=7.4", "pytest-cov>=4.1"]
+
+[project.urls]
+Homepage = "https://github.com/USER/REPO"
+Paper = "https://arxiv.org/abs/XXXX.XXXXX"
+"Project page" = "https://USER.github.io/REPO/"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# The solver emits deprecation chatter we do not control.
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
+addopts = "-q"
