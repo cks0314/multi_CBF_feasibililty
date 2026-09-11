@@ -15,7 +15,7 @@
  <div align="center"></div>
 
 <p align="center">
-  <video src="https://github.com/USER/REPO/raw/main/assets/hero_upd.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/USER/REPO/raw/main/assets/hero.gif" width="100%" autoplay loop muted playsinline></video>
   <img src="assets/hero.gif" width="100%" alt="Sixteen robots, every edge a shared safety constraint coloured by who is responsible for it"/>
 </p>
 
