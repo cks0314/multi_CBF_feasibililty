@@ -11,7 +11,6 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv)](...)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](...)
 [![Demo](https://img.shields.io/badge/Demo-Interactive-orange)](https://USER.github.io/REPO/demo.html)
-[![Tests](https://github.com/USER/REPO/actions/workflows/tests.yml/badge.svg)](https://github.com/USER/REPO/actions/workflows/tests.yml)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
  <div align="center"></div>
 
