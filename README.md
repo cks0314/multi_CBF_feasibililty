@@ -41,11 +41,7 @@ Pointwise infeasibility of multirobot control barrier function safety filters of
   <ol>
     <li><a href="#motivation">Motivation</a></li>
     <li><a href="#key-contributions">Key contributions</a></li>
-    <li><a href="#method-overview">Method overview</a></li>
-    <li><a href="#results">Results</a></li>
-    <li><a href="#interactive-demo">Interactive demo</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#reproducing-the-paper">Reproducing the paper</a></li>
     <li><a href="#repository-structure">Repository structure</a></li>
     <li><a href="#citation">Citation</a></li>
   </ol>
