@@ -1,5 +1,5 @@
 <div align='center'>
-<h2 align="center"> When the Safety Filter Fails: Exact Diagnosis of Infeasibility in Multirobot Control Barrier Functions</h2>
+<h2 align="center"> Exact Feasibility Certification and Optimal Responsibility Allocation for Multi-Robot CBF Safety Filters</h2>
 
 **Stop guessing why the QP said no.**
 
