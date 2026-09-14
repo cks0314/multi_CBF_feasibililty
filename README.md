@@ -147,8 +147,7 @@ The filters are cvxpy problems compiled once and re-solved with new parameter va
 
 ```bibtex
 @inproceedings{sah2027certificate,
-  title     = {When the Safety Filter Fails: Exact Diagnosis of Infeasibility
-               in Multirobot Control Barrier Functions},
+  title     = {Exact Feasibility Certification and Optimal Responsibility Allocation for Multi-Robot CBF Safety Filters},
   author    = {Sah, Chandan Kumar and Keshavan, Jishnu},
   booktitle = {IEEE Int. Conf. on Robotics and Automation (ICRA)},
   year      = {2027}
