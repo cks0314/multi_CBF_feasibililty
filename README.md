@@ -8,7 +8,7 @@
 
 <h3 align="center"> DACAS Lab, Indian Institute of Science, Bangalore</h3>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv)](...)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv)](https://doi.org/10.48550/arXiv.2609.14935)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://cks0314.github.io/page_multi_CBF_feasibililty/)
 [![Demo](https://img.shields.io/badge/Demo-Interactive-orange)](https://USER.github.io/REPO/demo.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
