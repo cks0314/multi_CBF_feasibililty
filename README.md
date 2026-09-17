@@ -146,11 +146,11 @@ The filters are cvxpy problems compiled once and re-solved with new parameter va
 ## Citation
 
 ```bibtex
-@inproceedings{sah2027certificate,
-  title     = {Exact Feasibility Certification and Optimal Responsibility Allocation for Multi-Robot CBF Safety Filters},
-  author    = {Sah, Chandan Kumar and Keshavan, Jishnu},
-  booktitle = {-},
-  year      = {2026}
+@article{sah2026exact,
+  title={Exact Feasibility Certification and Optimal Responsibility Allocation for Multi-Robot CBF Safety Filters},
+  author={Sah, Chandan Kumar and Keshavan, Jishnu},
+  journal={arXiv preprint arXiv:2609.14935},
+  year={2026}
 }
 ```
 
